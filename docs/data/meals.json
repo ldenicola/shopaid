@@ -1,0 +1,65 @@
+{
+ "updated": "2026-10-16T09:00+02:00",
+ "meals": [
+  {
+   "title": "Butternut & chickpea curry",
+   "why": "Butternut and chickpeas are both on promo; vegetarian and cheap.",
+   "time_minutes": 40,
+   "uses": [
+    {
+     "item": "Butternut",
+     "store": "checkers",
+     "price": 14.99
+    },
+    {
+     "item": "Chickpeas",
+     "store": "woolworths",
+     "price": 16.99
+    },
+    {
+     "item": "Canned Chopped Tomatoes",
+     "store": "checkers",
+     "price": 14.99
+    }
+   ],
+   "also_need": [
+    "onion",
+    "curry paste",
+    "coconut milk",
+    "rice"
+   ],
+   "method": [
+    "Fry onion and curry paste.",
+    "Add cubed butternut, tomatoes and coconut milk; simmer 25 min.",
+    "Stir in chickpeas, heat through, serve with rice."
+   ]
+  },
+  {
+   "title": "Boerewors braai with baby potatoes",
+   "why": "Boerewors and baby potatoes are both well down this week.",
+   "time_minutes": 45,
+   "uses": [
+    {
+     "item": "Boerewors Traditional",
+     "store": "checkers",
+     "price": 89.99
+    },
+    {
+     "item": "Baby Potatoes",
+     "store": "pnp",
+     "price": 29.99
+    }
+   ],
+   "also_need": [
+    "butter",
+    "parsley",
+    "salad leaves"
+   ],
+   "method": [
+    "Parboil potatoes 12 min.",
+    "Braai wors over medium coals.",
+    "Finish potatoes on the grid, toss in butter and parsley."
+   ]
+  }
+ ]
+}

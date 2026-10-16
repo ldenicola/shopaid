@@ -1,0 +1,33 @@
+# Where the weekly job looks for specials.
+# Retailers redesign their sites now and then. If a store comes back empty in
+# docs/data/specials.json (see "sources" -> "status"), open the store's specials
+# page in your browser, copy the address and paste it here.
+
+model_extract: claude-haiku-5-5      # cheap, fast: reads the pages and pulls out the deals
+model_meals: claude-sonnet-5-5       # better at turning specials into meal ideas
+max_pages_per_url: 6                 # how many "next page"/scroll rounds per URL
+max_chars_per_call: 30000            # page text sent to Claude per extraction call
+
+retailers:
+  checkers:
+    name: Checkers / Shoprite
+    loyalty: Xtra Savings
+    urls:
+      - https://www.checkers.co.za/specials
+      - https://www.shoprite.co.za/specials
+  pnp:
+    name: Pick n Pay
+    loyalty: Smart Shopper
+    urls:
+      - https://www.pnp.co.za/c/pnpbase?query=:relevance:allCategories:pnpbase:isOnPromotion:On%20Promotion
+  woolworths:
+    name: Woolworths
+    loyalty: WRewards
+    urls:
+      - https://www.woolworths.co.za/cat/Food/_/N-1z13sk5
+      - https://www.woolworths.co.za/content/collection/food-promotions
+  spar:
+    name: SPAR
+    loyalty: SPAR Rewards
+    urls:
+      - https://www.spar.co.za/Specials

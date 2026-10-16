@@ -1,0 +1,308 @@
+{
+ "sample": true,
+ "updated": "2026-10-16T09:00+02:00",
+ "sources": {
+  "checkers": {
+   "status": "ok"
+  },
+  "pnp": {
+   "status": "ok"
+  },
+  "woolworths": {
+   "status": "ok"
+  },
+  "spar": {
+   "status": "ok"
+  }
+ },
+ "items": [
+  {
+   "store": "checkers",
+   "name": "Clover Full Cream Fresh Milk",
+   "size": "2L",
+   "category": "dairy & eggs",
+   "price": 32.99,
+   "was_price": 38.99,
+   "loyalty_price": 29.99,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Pick n Pay Full Cream Fresh Milk",
+   "size": "2L",
+   "category": "dairy & eggs",
+   "price": 31.99,
+   "was_price": 36.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "spar",
+   "name": "SPAR Large Eggs",
+   "size": "18s",
+   "category": "dairy & eggs",
+   "price": 62.99,
+   "was_price": 74.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "checkers",
+   "name": "Nulaid Large Eggs",
+   "size": "18s",
+   "category": "dairy & eggs",
+   "price": 64.99,
+   "was_price": 72.99,
+   "loyalty_price": 59.99,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "woolworths",
+   "name": "Free Range Large Eggs",
+   "size": "18s",
+   "category": "dairy & eggs",
+   "price": 79.99,
+   "was_price": 89.99,
+   "loyalty_price": 74.99,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Sasko Brown Bread",
+   "size": "700g",
+   "category": "bakery",
+   "price": 17.99,
+   "was_price": 19.99,
+   "loyalty_price": 16.49,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "checkers",
+   "name": "Lavazza Qualita Oro Coffee Beans",
+   "size": "500g",
+   "category": "pantry",
+   "price": 189.99,
+   "was_price": 249.99,
+   "loyalty_price": 169.99,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "woolworths",
+   "name": "Fairtrade Ground Coffee Medium Roast",
+   "size": "250g",
+   "category": "pantry",
+   "price": 89.99,
+   "was_price": 109.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Fresh Chicken Breast Fillets",
+   "size": "per kg",
+   "category": "meat & fish",
+   "price": 89.99,
+   "was_price": 119.99,
+   "loyalty_price": 79.99,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "spar",
+   "name": "Chicken Breast Fillets Value Pack",
+   "size": "1kg",
+   "category": "meat & fish",
+   "price": 94.99,
+   "was_price": 114.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "checkers",
+   "name": "Lean Beef Mince",
+   "size": "per kg",
+   "category": "meat & fish",
+   "price": 109.99,
+   "was_price": 134.99,
+   "loyalty_price": 99.99,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "woolworths",
+   "name": "Free Range Beef Mince",
+   "size": "500g",
+   "category": "meat & fish",
+   "price": 79.99,
+   "was_price": 94.99,
+   "loyalty_price": null,
+   "promo_text": "Buy 2 for R150",
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Clover Mature Cheddar",
+   "size": "900g",
+   "category": "dairy & eggs",
+   "price": 119.99,
+   "was_price": 149.99,
+   "loyalty_price": 109.99,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "spar",
+   "name": "Bananas Loose",
+   "size": "per kg",
+   "category": "fruit & veg",
+   "price": 22.99,
+   "was_price": 27.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "checkers",
+   "name": "Butternut",
+   "size": "per kg",
+   "category": "fruit & veg",
+   "price": 14.99,
+   "was_price": 19.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Baby Potatoes",
+   "size": "1kg",
+   "category": "fruit & veg",
+   "price": 29.99,
+   "was_price": 39.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "woolworths",
+   "name": "Tenderstem Broccoli",
+   "size": "200g",
+   "category": "fruit & veg",
+   "price": 34.99,
+   "was_price": 42.99,
+   "loyalty_price": 29.99,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "spar",
+   "name": "Lamb Loin Chops",
+   "size": "per kg",
+   "category": "meat & fish",
+   "price": 219.99,
+   "was_price": 259.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "checkers",
+   "name": "Boerewors Traditional",
+   "size": "per kg",
+   "category": "meat & fish",
+   "price": 99.99,
+   "was_price": 129.99,
+   "loyalty_price": 89.99,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Fatti's & Moni's Penne",
+   "size": "500g",
+   "category": "pantry",
+   "price": 21.99,
+   "was_price": 27.99,
+   "loyalty_price": null,
+   "promo_text": "Any 2 for R40",
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "checkers",
+   "name": "Canned Chopped Tomatoes",
+   "size": "400g",
+   "category": "pantry",
+   "price": 14.99,
+   "was_price": 18.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "spar",
+   "name": "Finish Powerball Dishwasher Tablets",
+   "size": "56s",
+   "category": "household",
+   "price": 249.99,
+   "was_price": 319.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Coastal Hake Fillets",
+   "size": "800g",
+   "category": "frozen",
+   "price": 99.99,
+   "was_price": 129.99,
+   "loyalty_price": 89.99,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "woolworths",
+   "name": "Chickpeas",
+   "size": "400g",
+   "category": "pantry",
+   "price": 16.99,
+   "was_price": 21.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  }
+ ]
+}

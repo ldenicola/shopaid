@@ -1,0 +1,15 @@
+{
+  "note": "Starter list. Edit it in the app; your changes are kept on your phone.",
+  "items": [
+    { "name": "Full cream milk 2L", "keys": "full cream milk 2l, fresh milk 2l" },
+    { "name": "Eggs (18)", "keys": "eggs 18, 18 eggs, large eggs" },
+    { "name": "Brown bread", "keys": "brown bread" },
+    { "name": "Coffee", "keys": "coffee beans, ground coffee, filter coffee" },
+    { "name": "Chicken breasts", "keys": "chicken breast, chicken fillet" },
+    { "name": "Beef mince", "keys": "beef mince, lean mince" },
+    { "name": "Cheddar", "keys": "cheddar" },
+    { "name": "Bananas", "keys": "banana" },
+    { "name": "Olive oil", "keys": "olive oil" },
+    { "name": "Dishwasher tablets", "keys": "dishwasher tablets, dishwasher capsules" }
+  ]
+}

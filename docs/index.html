@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en-ZA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>ShopAid</title>
+  <meta name="theme-color" content="#1f3d2b">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon.svg">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div>
+      <h1>ShopAid</h1>
+      <p id="updated" class="muted">Loading…</p>
+    </div>
+    <button id="cardsBtn" class="chip" aria-label="Loyalty cards">Cards</button>
+  </header>
+
+  <div id="banner" class="banner" hidden></div>
+
+  <main>
+    <!-- MY LIST -->
+    <section id="tab-list" class="tab active">
+      <form id="addForm" class="add">
+        <input id="addName" placeholder="Add an item, e.g. full cream milk 2L" autocomplete="off" required>
+        <button class="btn">Add</button>
+      </form>
+      <p class="hint">Tip: tap an item to set the words it should match (e.g. <em>coffee beans, ground coffee</em>).</p>
+      <ul id="listItems" class="cards"></ul>
+    </section>
+
+    <!-- DEALS -->
+    <section id="tab-deals" class="tab">
+      <div class="filters">
+        <input id="q" type="search" placeholder="Search deals">
+        <div id="storeFilter" class="chips"></div>
+        <div class="row">
+          <select id="catFilter"><option value="">All categories</option></select>
+          <select id="sort">
+            <option value="pct">Biggest % off</option>
+            <option value="rand">Biggest rand saving</option>
+            <option value="price">Lowest price</option>
+          </select>
+        </div>
+      </div>
+      <p id="dealCount" class="muted small"></p>
+      <ul id="deals" class="cards"></ul>
+    </section>
+
+    <!-- BASKET -->
+    <section id="tab-basket" class="tab">
+      <div id="verdict" class="verdict"></div>
+      <h2>Store by store</h2>
+      <p class="muted small">Only items from your list that are on promotion are counted. Prices use your loyalty cards where you have them.</p>
+      <div id="storeTable"></div>
+      <h2>Cheapest split</h2>
+      <p class="muted small">Each item at whichever store has it cheapest this week.</p>
+      <div id="split"></div>
+      <h2>Not on promo anywhere</h2>
+      <ul id="missing" class="plain"></ul>
+    </section>
+
+    <!-- MEALS -->
+    <section id="tab-meals" class="tab">
+      <p id="mealsUpdated" class="muted small"></p>
+      <div id="meals"></div>
+    </section>
+  </main>
+
+  <nav class="bottom">
+    <button data-tab="list" class="active"><span>☰</span>My list</button>
+    <button data-tab="deals"><span>%</span>Deals</button>
+    <button data-tab="basket"><span>🛒</span>Basket</button>
+    <button data-tab="meals"><span>🍲</span>Meals</button>
+  </nav>
+
+  <dialog id="cardsDlg">
+    <form method="dialog">
+      <h2>Your loyalty cards</h2>
+      <p class="muted small">Card prices are used only for stores where you have the card.</p>
+      <div id="cardToggles"></div>
+      <menu><button class="btn">Done</button></menu>
+    </form>
+  </dialog>
+
+  <dialog id="itemDlg">
+    <form method="dialog" id="itemForm">
+      <h2 id="itemTitle">Item</h2>
+      <label>Name<input id="itemName" required></label>
+      <label>Match words <small class="muted">— comma-separated alternatives; every word in one alternative must appear</small>
+        <input id="itemKeys"></label>
+      <label>Quantity<input id="itemQty" type="number" min="1" value="1"></label>
+      <div id="itemMatches" class="small"></div>
+      <menu>
+        <button value="delete" class="btn ghost danger">Remove</button>
+        <button value="save" class="btn">Save</button>
+      </menu>
+    </form>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

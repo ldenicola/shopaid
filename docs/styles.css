@@ -1,0 +1,145 @@
+:root {
+  --bg: #f6f1e7;
+  --card: #fffdf8;
+  --ink: #1d231f;
+  --muted: #6b6f68;
+  --line: #e4ddcf;
+  --brand: #1f3d2b;
+  --accent: #f4c95d;
+  --save: #b33a1f;
+  --good: #2f7d4a;
+  --checkers: #00a19a;
+  --pnp: #d6202f;
+  --woolworths: #1b1b1b;
+  --spar: #00843d;
+  --radius: 14px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #141815; --card: #1d221e; --ink: #ece8df; --muted: #9aa097;
+    --line: #2d342f; --brand: #a9d4b6; --accent: #f4c95d; --save: #ff8a6b;
+    --good: #7fd19b; --woolworths: #d9d9d9;
+  }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--bg); color: var(--ink);
+  font: 15px/1.45 Inter, system-ui, sans-serif;
+  padding-bottom: calc(76px + env(safe-area-inset-bottom));
+}
+h1, h2 { font-family: Fraunces, Georgia, serif; margin: 0; }
+h1 { font-size: 28px; color: var(--brand); }
+h2 { font-size: 19px; margin: 22px 0 6px; }
+.muted { color: var(--muted); margin: 2px 0; }
+.small { font-size: 13px; }
+.hint { font-size: 13px; color: var(--muted); margin: 6px 2px 12px; }
+
+.top {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: calc(14px + env(safe-area-inset-top)) 16px 10px;
+}
+main { padding: 0 16px; max-width: 720px; margin: 0 auto; }
+.tab { display: none; }
+.tab.active { display: block; }
+
+.banner {
+  margin: 0 16px 10px; padding: 10px 12px; border-radius: 10px;
+  background: color-mix(in srgb, var(--accent) 30%, var(--card));
+  font-size: 13px;
+}
+
+input, select {
+  font: inherit; color: var(--ink); background: var(--card);
+  border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; width: 100%;
+}
+.btn {
+  font: 600 14px Inter, sans-serif; background: var(--brand); color: var(--bg);
+  border: 0; border-radius: 10px; padding: 10px 16px; cursor: pointer;
+}
+.btn.ghost { background: transparent; color: var(--ink); border: 1px solid var(--line); }
+.btn.danger { color: var(--save); }
+.chip {
+  font: 500 13px Inter, sans-serif; border: 1px solid var(--line); background: var(--card);
+  color: var(--ink); border-radius: 999px; padding: 6px 12px; cursor: pointer;
+}
+.chip.on { background: var(--brand); color: var(--bg); border-color: var(--brand); }
+
+.add { display: flex; gap: 8px; }
+.add .btn { flex: none; }
+
+.cards { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.card {
+  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 12px; display: flex; gap: 10px; align-items: flex-start;
+}
+.card .body { flex: 1; min-width: 0; }
+.card .name { font-weight: 600; }
+.card .sub { font-size: 13px; color: var(--muted); }
+.price { text-align: right; white-space: nowrap; }
+.price .now { font-weight: 700; font-size: 17px; }
+.price .was { text-decoration: line-through; color: var(--muted); font-size: 12px; }
+.price .off { color: var(--save); font-weight: 600; font-size: 12px; }
+.tag {
+  display: inline-block; font-size: 11px; font-weight: 600; padding: 2px 7px; border-radius: 6px;
+  color: #fff; margin-right: 4px; vertical-align: 1px;
+}
+.tag.checkers { background: var(--checkers); }
+.tag.pnp { background: var(--pnp); }
+.tag.woolworths { background: var(--woolworths); color: var(--bg); }
+.tag.spar { background: var(--spar); }
+.tag.card { background: var(--accent); color: #2a2200; border: 0; padding: 2px 7px; display: inline-block; }
+.promo { font-size: 12px; color: var(--save); }
+.match { margin-top: 6px; font-size: 13px; }
+.match .best { color: var(--good); font-weight: 600; }
+.star {
+  border: 0; background: none; font-size: 20px; cursor: pointer; color: var(--muted); padding: 0 2px;
+}
+.star.on { color: var(--accent); }
+
+.filters { display: grid; gap: 8px; margin-bottom: 8px; }
+.chips { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 2px; }
+.row { display: flex; gap: 8px; }
+
+.verdict {
+  background: var(--brand); color: var(--bg); border-radius: var(--radius); padding: 16px;
+}
+.verdict h3 { font-family: Fraunces, serif; margin: 0 0 4px; font-size: 20px; }
+.verdict p { margin: 0; opacity: .9; }
+table { width: 100%; border-collapse: collapse; background: var(--card); border-radius: var(--radius); overflow: hidden; font-size: 14px; }
+th, td { padding: 9px 10px; border-bottom: 1px solid var(--line); text-align: left; }
+th { font-size: 12px; color: var(--muted); font-weight: 600; }
+td.num, th.num { text-align: right; }
+tr:last-child td { border-bottom: 0; }
+.split-store { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 12px; margin-bottom: 8px; }
+.split-store ul { margin: 6px 0 0; padding-left: 18px; }
+.plain { padding-left: 18px; color: var(--muted); }
+
+.meal { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px; margin-bottom: 10px; }
+.meal h3 { font-family: Fraunces, serif; margin: 0; font-size: 18px; }
+.meal ol { padding-left: 18px; margin: 8px 0 0; }
+.meal details summary { cursor: pointer; font-weight: 600; margin-top: 8px; }
+
+nav.bottom {
+  position: fixed; bottom: 0; left: 0; right: 0; display: flex;
+  background: var(--card); border-top: 1px solid var(--line);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+nav.bottom button {
+  flex: 1; border: 0; background: none; color: var(--muted); font: 500 12px Inter, sans-serif;
+  padding: 8px 0 10px; display: flex; flex-direction: column; align-items: center; gap: 2px; cursor: pointer;
+}
+nav.bottom button span { font-size: 18px; }
+nav.bottom button.active { color: var(--brand); font-weight: 600; }
+
+dialog {
+  border: 0; border-radius: 18px; padding: 18px; width: min(92vw, 460px);
+  background: var(--card); color: var(--ink);
+}
+dialog::backdrop { background: rgb(0 0 0 / .4); }
+dialog label { display: block; margin: 10px 0; font-weight: 500; }
+dialog label input { margin-top: 4px; }
+dialog menu { display: flex; justify-content: flex-end; gap: 8px; padding: 0; margin: 14px 0 0; }
+.toggle { display: flex; align-items: center; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid var(--line); }
+.toggle input { width: auto; transform: scale(1.3); }
+.empty { text-align: center; color: var(--muted); padding: 30px 10px; }

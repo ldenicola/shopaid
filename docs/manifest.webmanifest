@@ -1,0 +1,9 @@
+{
+  "name": "ShopAid",
+  "short_name": "ShopAid",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f1e7",
+  "theme_color": "#1f3d2b",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
