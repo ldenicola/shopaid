@@ -2,12 +2,17 @@ name: ShopAid weekly specials
 
 on:
   schedule:
-    # Mondays and Thursdays 04:47 SAST (02:47 UTC)
+    # Mondays 04:47 SAST (02:47 UTC) and Thursdays 04:47 SAST, so mid-week
+    # promotions are picked up too
     - cron: "47 2 * * 1,4"
-  workflow_dispatch: {}
+  workflow_dispatch: {}   # "Run workflow" button on the Actions tab
 
 permissions:
   contents: write
+
+concurrency:
+  group: shopaid-fetch
+  cancel-in-progress: false
 
 jobs:
   fetch:
@@ -37,5 +42,7 @@ jobs:
           git config user.name "shopaid-bot"
           git config user.email "shopaid-bot@users.noreply.github.com"
           git add docs/data/specials.json docs/data/meals.json
-          git diff --cached --quiet || git commit -m "Specials update $(date -u +%Y-%m-%d)"
+          git diff --cached --quiet && exit 0
+          git commit -m "Specials update $(date -u +%Y-%m-%d)"
+          git pull --rebase -X theirs origin main
           git push
