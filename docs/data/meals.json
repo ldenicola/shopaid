@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-16T16:40+02:00",
+ "updated": "2026-10-16T17:17+02:00",
  "meals": [
   {
-   "title": "Braai Pork Chops with Butternut and Cucumber-Yoghurt Salad",
-   "why": "Pork braai chops are R69.99/kg, the cheapest braai meat on special this week, and butternut is only R14.99/kg.",
+   "title": "Braai Pork Chops with Foil-Roasted Butternut and Cucumber Yoghurt Salad",
+   "why": "Pork braai chops at R69.99 and butternut at R14.99/kg make a cheap, filling braai meal, and the yoghurt doubles as salad dressing.",
    "time_minutes": 45,
    "uses": [
     {
@@ -22,31 +22,31 @@
      "price": 12.99
     },
     {
-     "item": "PnP Double Cream Plain Yoghurt 1kg",
+     "item": "PnP Double Cream Plain Yoghurt",
      "store": "pnp",
      "price": 37.99
     }
    ],
    "also_need": [
-    "olive oil or sunflower oil",
+    "olive oil",
     "salt and pepper",
+    "braai spice or chops marinade",
     "garlic",
-    "dried oregano or braai spice",
-    "lemon juice or vinegar",
-    "fresh mint or dill (optional)"
+    "fresh mint or dill",
+    "lemon juice"
    ],
    "method": [
-    "Rub the chops with oil, garlic, braai spice, salt and pepper. Leave them for 15 minutes or marinate in the fridge all day.",
-    "Cut the butternut into thick wedges, skin on. Toss with oil and salt, wrap in foil and put on the coals for 25-30 minutes until soft.",
-    "Braai the chops over medium coals for 5-7 minutes per side until cooked through with crisp fat.",
-    "Dice the cucumber and stir into the yoghurt with garlic, lemon juice, salt and herbs.",
-    "Serve the chops with the butternut and the cool cucumber-yoghurt on the side."
+    "Cube the butternut, toss with oil, salt and pepper, wrap in foil parcels and place on the coals for 30-35 minutes, turning once.",
+    "Rub the chops with oil and braai spice, then leave them for 10 minutes.",
+    "Braai the chops over medium coals for about 6-8 minutes per side until cooked through.",
+    "Dice the cucumber and stir into the yoghurt with crushed garlic, lemon juice, mint and salt.",
+    "Rest the chops for 5 minutes and serve with the butternut and cucumber salad."
    ]
   },
   {
-   "title": "Butternut and Mixed Veg Curry with Parboiled Rice",
-   "why": "Cheap butternut, frozen veg, tinned tomatoes and a 2kg bag of rice make a filling vegetarian dinner for well under R20 a head.",
-   "time_minutes": 40,
+   "title": "Creamy Butternut and Tomato Curry with Parboiled Rice",
+   "why": "Butternut at R14.99/kg is the star of this vegetarian curry, and rice and canned tomatoes stretch it to feed the whole household cheaply.",
+   "time_minutes": 45,
    "uses": [
     {
      "item": "Butternut",
@@ -54,45 +54,47 @@
      "price": 14.99
     },
     {
-     "item": "No Name Mixed Vegetables 900g",
-     "store": "pnp",
-     "price": 40.99
-    },
-    {
      "item": "Canned Chopped Tomatoes",
      "store": "checkers",
      "price": 14.99
     },
     {
-     "item": "Spekko Rice Parboiled 2kg",
+     "item": "Rhodes Tomato Paste Sachet",
+     "store": "pnp",
+     "price": 7.49
+    },
+    {
+     "item": "Spekko Rice Parboiled",
      "store": "pnp",
      "price": 29.99
     },
     {
-     "item": "PnP Double Cream Plain Yoghurt 1kg",
+     "item": "PnP Double Cream Plain Yoghurt",
      "store": "pnp",
      "price": 37.99
     }
    ],
    "also_need": [
     "onion",
-    "garlic and ginger",
-    "curry powder or masala",
-    "cooking oil",
+    "garlic",
+    "ginger",
+    "curry powder",
+    "oil",
     "salt",
+    "canned chickpeas (optional)",
     "fresh coriander (optional)"
    ],
    "method": [
-    "Fry the chopped onion, garlic and ginger in oil until soft. Add the curry powder and stir for 1 minute.",
-    "Add the tinned tomatoes and about 1 cup of water. Add the butternut in 2cm cubes and simmer for 15 minutes.",
-    "Stir in the frozen mixed veg and cook for another 8-10 minutes until the butternut is tender. Season with salt.",
-    "Cook the rice in salted water for about 20-25 minutes, then drain.",
-    "Serve the curry over the rice with a spoon of yoghurt on top."
+    "Fry a chopped onion, garlic and ginger in oil until soft, then stir in the curry powder and tomato paste for 1 minute.",
+    "Add the cubed butternut, chopped tomatoes and half a can of water, then season with salt.",
+    "Simmer covered for 20-25 minutes until the butternut is tender. Add chickpeas for the last 5 minutes if using.",
+    "Cook the rice according to the packet while the curry simmers.",
+    "Take the curry off the heat, stir in a few spoonfuls of yoghurt and serve over the rice."
    ]
   },
   {
-   "title": "One-Pot Mince and Macaroni",
-   "why": "Lean beef mince is R109.99/kg (R99.99 with a Checkers loyalty card), and a small amount stretched with macaroni and tomatoes feeds the whole family fast.",
+   "title": "Quick Beef Mince Macaroni",
+   "why": "Lean mince, macaroni at R14 and canned tomatoes make a one-pot dinner that is on the table in about 25 minutes.",
    "time_minutes": 25,
    "uses": [
     {
@@ -101,7 +103,7 @@
      "price": 109.99
     },
     {
-     "item": "No Name Macaroni Pasta 500g",
+     "item": "No Name Macaroni Pasta",
      "store": "pnp",
      "price": 14.0
     },
@@ -111,14 +113,9 @@
      "price": 14.99
     },
     {
-     "item": "Rhodes Tomato Paste Sachet 50g",
+     "item": "Rhodes Tomato Paste Sachet",
      "store": "pnp",
      "price": 7.49
-    },
-    {
-     "item": "PnP Carrots 1kg",
-     "store": "pnp",
-     "price": 14.99
     }
    ],
    "also_need": [
@@ -126,21 +123,20 @@
     "garlic",
     "oil",
     "mixed herbs",
-    "beef stock cube",
-    "salt and pepper"
+    "salt and pepper",
+    "grated cheese (optional)"
    ],
    "method": [
-    "Brown 500g of mince with the chopped onion and garlic in a large pot, breaking it up as it cooks.",
-    "Stir in the tomato paste and grated carrot and cook for 2 minutes.",
-    "Add the tinned tomatoes, 2 cups of water, the stock cube and herbs, then bring to a boil.",
-    "Stir in the macaroni, cover and simmer for 10-12 minutes, stirring often, until the pasta is tender and the sauce has thickened.",
-    "Season and serve straight from the pot."
+    "Boil the macaroni in salted water for about 10 minutes, then drain.",
+    "Meanwhile, brown the mince with chopped onion and garlic in a large pan, breaking it up as it cooks.",
+    "Stir in the tomato paste, chopped tomatoes, mixed herbs, salt and pepper, and simmer for 10 minutes.",
+    "Toss the drained macaroni through the sauce and top with cheese if you like."
    ]
   },
   {
-   "title": "Slow-Cooked Beef Potjiekos with Potatoes and Carrots",
-   "why": "PnP Beef Potjiekos is R99.99/kg, and with potatoes and carrots also on special, one pot feeds the family with leftovers for lunch.",
-   "time_minutes": 150,
+   "title": "Slow-Cooked Beef Potjiekos with Carrots and Potatoes",
+   "why": "PnP Beef Potjiekos at R99.99 plus cheap carrots and potatoes makes a one-pot Sunday-style meal that feeds a crowd and gets better as it cooks.",
+   "time_minutes": 180,
    "uses": [
     {
      "item": "PnP Beef Potjiekos",
@@ -148,19 +144,24 @@
      "price": 99.99
     },
     {
-     "item": "PnP All Purpose Potatoes 2kg",
-     "store": "pnp",
-     "price": 48.99
-    },
-    {
-     "item": "PnP Carrots 1kg",
+     "item": "PnP Carrots",
      "store": "pnp",
      "price": 14.99
     },
     {
-     "item": "Rhodes Tomato Paste Sachet 50g",
+     "item": "PnP All Purpose Potatoes",
+     "store": "pnp",
+     "price": 48.99
+    },
+    {
+     "item": "Rhodes Tomato Paste Sachet",
      "store": "pnp",
      "price": 7.49
+    },
+    {
+     "item": "Spekko Rice Parboiled",
+     "store": "pnp",
+     "price": 29.99
     }
    ],
    "also_need": [
@@ -170,67 +171,20 @@
     "beef stock cube",
     "bay leaves",
     "salt and pepper",
-    "splash of red wine or vinegar (optional)"
+    "splash of red wine or water"
    ],
    "method": [
-    "Brown the potjiekos in batches in a heavy pot or cast-iron potjie with oil, then set aside.",
-    "Fry the sliced onions and garlic, stir in the tomato paste, then return the meat to the pot.",
-    "Add the stock cube dissolved in 2 cups of hot water, the bay leaves and the wine or vinegar. Cover and simmer on low (or in a 160°C oven) for 1.5 hours.",
-    "Add the chunked carrots and halved potatoes and cook for another 40-45 minutes without stirring too much.",
-    "Season, rest for 10 minutes and serve."
+    "Brown the potjiekos in batches in a heavy pot or Dutch oven with a little oil, then set it aside.",
+    "Fry sliced onions and garlic in the same pot, then stir in the tomato paste.",
+    "Return the meat with the stock cube dissolved in 1 cup of hot water, the bay leaves and the wine if using. Cover and simmer on low (or at 160°C in the oven) for 1.5-2 hours.",
+    "Add the chunked carrots and halved potatoes and cook for another 45-60 minutes, until the meat is tender and the sauce has thickened.",
+    "Cook the rice and serve it alongside the potjie."
    ]
   },
   {
-   "title": "Cheesy Tuna Pasta Bake",
-   "why": "Shredded tuna at R25 and a big block of Gouda make a cheap oven bake that comes mostly out of the cupboard.",
-   "time_minutes": 45,
-   "uses": [
-    {
-     "item": "Shredded tuna in oil or brine",
-     "store": "woolworths",
-     "price": 25.0
-    },
-    {
-     "item": "Everyday pasta",
-     "store": "woolworths",
-     "price": 18.33
-    },
-    {
-     "item": "SPAR Gouda Cheese Vacuum Pack (700g)",
-     "store": "spar",
-     "price": 99.99
-    },
-    {
-     "item": "Clover Full Cream Fresh Milk",
-     "store": "checkers",
-     "price": 32.99
-    },
-    {
-     "item": "Canned Chopped Tomatoes",
-     "store": "checkers",
-     "price": 14.99
-    }
-   ],
-   "also_need": [
-    "butter or margarine",
-    "flour",
-    "onion",
-    "garlic",
-    "mustard powder (optional)",
-    "salt and pepper"
-   ],
-   "method": [
-    "Cook the pasta in salted water for 2 minutes less than the packet says, then drain. Heat the oven to 190°C.",
-    "Make a cheese sauce: melt the butter, stir in 3 Tbsp flour, whisk in 2 cups of milk and cook until thick. Stir in most of the grated Gouda, plus salt, pepper and mustard.",
-    "Fry the onion and garlic, add the tinned tomatoes and simmer for 5 minutes. Stir in the tuna.",
-    "Combine the pasta, tuna-tomato mix and cheese sauce in an ovenproof dish and top with the remaining cheese.",
-    "Bake for 20-25 minutes until golden and bubbling."
-   ]
-  },
-  {
-   "title": "Sheet-Pan Chicken with Butternut and Carrots",
-   "why": "The SPAR 4kg frozen chicken pack works out cheap per portion, and butternut and carrots make it a one-tray dinner.",
-   "time_minutes": 70,
+   "title": "Oven-Baked Chicken Traybake with Butternut and Carrots",
+   "why": "SPAR's 4kg frozen chicken portions (R154.99) are cheap per meal, and cooking them with butternut and carrots on one tray means almost no washing up.",
+   "time_minutes": 65,
    "uses": [
     {
      "item": "SPAR Frozen Chicken Mixed Portions with a Brine Based Mixture (4kg)",
@@ -243,31 +197,73 @@
      "price": 14.99
     },
     {
-     "item": "PnP Carrots 1kg",
+     "item": "PnP Carrots",
      "store": "pnp",
      "price": 14.99
-    },
-    {
-     "item": "PnP Double Cream Plain Yoghurt 1kg",
-     "store": "pnp",
-     "price": 37.99
     }
    ],
    "also_need": [
-    "oil",
+    "olive oil",
     "paprika",
     "garlic powder",
     "dried thyme or mixed herbs",
     "salt (go easy, the chicken is brined)",
-    "pepper",
-    "lemon (optional)"
+    "pepper"
    ],
    "method": [
-    "Thaw the chicken portions in the fridge overnight. Pat dry and heat the oven to 200°C.",
-    "Cut the butternut into chunks and the carrots into sticks, and spread them on a large baking tray.",
-    "Toss the chicken with oil, paprika, garlic powder, herbs and pepper, then nestle it among the veg.",
-    "Roast for 45-55 minutes, turning once, until the chicken is golden and cooked through.",
-    "Mix some yoghurt with lemon juice and herbs as a cooling sauce, and serve it with the chicken and veg."
+    "Thaw the chicken portions you need overnight in the fridge, then pat them dry and heat the oven to 200°C.",
+    "Toss the chicken with oil, paprika, garlic powder, herbs and pepper.",
+    "Spread chunked butternut and carrots on a large tray, drizzle with oil and nestle the chicken on top.",
+    "Roast for 45-55 minutes, turning the veg once, until the chicken is golden and cooked through.",
+    "Freeze the remaining portions for future meals."
+   ]
+  },
+  {
+   "title": "Quick Shakshuka with Toasted Panini",
+   "why": "A dozen-plus eggs at R64.99 for 18 and canned tomatoes make a cheap, protein-rich dinner in about 25 minutes, with panini for scooping.",
+   "time_minutes": 25,
+   "uses": [
+    {
+     "item": "Nulaid Large Eggs",
+     "store": "checkers",
+     "price": 64.99
+    },
+    {
+     "item": "Canned Chopped Tomatoes",
+     "store": "checkers",
+     "price": 14.99
+    },
+    {
+     "item": "Rhodes Tomato Paste Sachet",
+     "store": "pnp",
+     "price": 7.49
+    },
+    {
+     "item": "PnP Panini",
+     "store": "pnp",
+     "price": 15.0
+    },
+    {
+     "item": "PnP Avocado",
+     "store": "pnp",
+     "price": 10.0
+    }
+   ],
+   "also_need": [
+    "onion",
+    "garlic",
+    "oil",
+    "cumin",
+    "paprika",
+    "chilli flakes (optional)",
+    "salt and pepper"
+   ],
+   "method": [
+    "Soften a sliced onion and garlic in oil in a wide pan, then stir in the cumin, paprika and tomato paste.",
+    "Add the chopped tomatoes and simmer for 8-10 minutes until thick, seasoning to taste.",
+    "Make wells in the sauce, crack in 6-8 eggs, cover and cook for 5-7 minutes until the whites are set.",
+    "Toast the panini and slice the avocado.",
+    "Serve the shakshuka straight from the pan with the panini and avocado."
    ]
   }
  ]
