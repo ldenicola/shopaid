@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-19T05:21+02:00",
+ "updated": "2026-10-22T05:22+02:00",
  "meals": [
   {
-   "title": "Braaied Pork Chops with Butternut and Cucumber-Yoghurt Salad",
-   "why": "PnP Pork Braai Chops are on special at R69.99, and butternut is only R14.99/kg and in season in Cape Town's cooler months.",
-   "time_minutes": 45,
+   "title": "Braai Pork Chops with Pineapple-Chutney Glaze and Foil Potatoes",
+   "why": "PnP pork braai chops, a Queen pineapple and 2kg of potatoes are all on special this week, so the whole braai comes from one store.",
+   "time_minutes": 50,
    "uses": [
     {
      "item": "PnP Pork Braai Chops",
@@ -12,14 +12,60 @@
      "price": 69.99
     },
     {
+     "item": "PnP Queen Pineapple",
+     "store": "pnp",
+     "price": 17.5
+    },
+    {
+     "item": "Mrs H.S.Ball's Original Chutney 470g",
+     "store": "pnp",
+     "price": 34.99
+    },
+    {
+     "item": "PnP All Purpose Potatoes 2kg",
+     "store": "pnp",
+     "price": 35.0
+    }
+   ],
+   "also_need": [
+    "butter or Stork spread",
+    "salt and pepper",
+    "garlic",
+    "foil",
+    "green salad ingredients"
+   ],
+   "method": [
+    "Light the fire. Cut the potatoes into chunks, toss with oil, salt and butter, wrap in foil parcels and place on the coals for 35-40 minutes.",
+    "Mix 3 tbsp chutney with a little oil, crushed garlic and pepper. Coat the pork chops and leave them for 15 minutes.",
+    "Peel the pineapple, cut into thick rings and brush with a little chutney.",
+    "Braai the chops over medium coals for 4-5 minutes per side until cooked through. Braai the pineapple rings for 2-3 minutes per side until caramelised.",
+    "Serve the chops with the potatoes, pineapple and a green salad."
+   ]
+  },
+  {
+   "title": "Butternut and Tomato Curry with Rice",
+   "why": "Butternut is only R14.99/kg at Checkers and bulks out a vegetarian curry, which is served with cheap parboiled rice.",
+   "time_minutes": 45,
+   "uses": [
+    {
      "item": "Butternut",
      "store": "checkers",
      "price": 14.99
     },
     {
-     "item": "PnP English Cucumber",
+     "item": "Canned Chopped Tomatoes",
+     "store": "checkers",
+     "price": 14.99
+    },
+    {
+     "item": "Rhodes Tomato Paste Sachet 50g",
      "store": "pnp",
-     "price": 12.99
+     "price": 5.0
+    },
+    {
+     "item": "Spekko Rice Parboiled 2kg",
+     "store": "pnp",
+     "price": 29.99
     },
     {
      "item": "PnP Double Cream Plain Yoghurt 1kg",
@@ -28,162 +74,55 @@
     }
    ],
    "also_need": [
-    "olive oil",
-    "salt and pepper",
-    "garlic",
-    "fresh mint or dill",
-    "lemon",
-    "braai spice or smoked paprika",
-    "foil"
-   ],
-   "method": [
-    "Cut the butternut into thick wedges, toss with oil, salt and pepper, and wrap in foil parcels. Put them on the coals for 30-35 minutes until soft.",
-    "Season the pork chops with braai spice, salt and a little oil, and leave them at room temperature while the fire settles.",
-    "Mix the yoghurt with grated garlic, lemon juice, chopped herbs and diced cucumber. Season and chill.",
-    "Braai the chops over medium coals for 5-6 minutes a side until cooked through and the fat is crisp.",
-    "Rest the chops for 5 minutes, then serve with the butternut and the cucumber-yoghurt salad."
-   ]
-  },
-  {
-   "title": "Creamy Butternut and Tomato Curry with Rice",
-   "why": "A meat-free dinner built on R14.99/kg butternut, with pantry specials (tomatoes, rice, masala) doing most of the work.",
-   "time_minutes": 45,
-   "uses": [
-    {
-     "item": "Butternut",
-     "store": "checkers",
-     "price": 14.99
-    },
-    {
-     "item": "Canned Chopped Tomatoes",
-     "store": "checkers",
-     "price": 14.99
-    },
-    {
-     "item": "Robertsons Rajah Mild Masala 7g",
-     "store": "pnp",
-     "price": 3.99
-    },
-    {
-     "item": "Nestle Dessert & Cooking Cream 290g",
-     "store": "pnp",
-     "price": 43.99
-    },
-    {
-     "item": "Spekko Rice Parboiled 2kg",
-     "store": "pnp",
-     "price": 39.99
-    }
-   ],
-   "also_need": [
     "onion",
     "garlic",
-    "fresh ginger",
+    "curry powder",
+    "canned chickpeas",
     "oil",
-    "extra curry powder or garam masala",
-    "salt",
-    "canned chickpeas (optional)",
-    "fresh coriander (optional)"
+    "salt"
    ],
    "method": [
-    "Fry a chopped onion in oil until soft, then add garlic, ginger and the Rajah masala (plus extra curry powder if you like more heat). Cook for 1 minute.",
-    "Add the chopped tomatoes and about 600g of cubed butternut, with a splash of water. Simmer, covered, for 20-25 minutes until the butternut is tender.",
-    "Add chickpeas now if using. Stir in the cooking cream and simmer for 5 minutes. Season to taste.",
-    "Cook the rice according to the packet while the curry simmers.",
-    "Serve the curry over the rice, topped with coriander."
+    "Fry a chopped onion and garlic in oil until soft, then add 2 tbsp curry powder and the tomato paste and stir for 1 minute.",
+    "Add the chopped tomatoes, about 1 cup of water and the peeled, cubed butternut. Simmer for 20-25 minutes until tender.",
+    "Add the drained chickpeas and cook for 5 minutes more. Season with salt.",
+    "Cook the rice according to the packet.",
+    "Serve the curry over the rice with a dollop of plain yoghurt."
    ]
   },
   {
-   "title": "20-Minute Tuna and Tomato Pasta",
-   "why": "Two small Woolworths specials (pasta R18.33, shredded tuna R25) plus canned tomatoes make a dinner for about R60.",
-   "time_minutes": 20,
+   "title": "Mi Goreng with Fried Eggs and Veg",
+   "why": "Indomie is under R6 a packet and a tray of Nulaid eggs adds protein, so dinner costs very little per person.",
+   "time_minutes": 15,
    "uses": [
     {
-     "item": "Everyday pasta",
-     "store": "woolworths",
-     "price": 18.33
+     "item": "Indomie Mi Goreng Fried Instant Noodles 85g",
+     "store": "pnp",
+     "price": 5.99
     },
     {
-     "item": "Shredded tuna in oil or brine",
-     "store": "woolworths",
-     "price": 25.0
-    },
-    {
-     "item": "Canned Chopped Tomatoes",
+     "item": "Nulaid Large Eggs",
      "store": "checkers",
-     "price": 14.99
+     "price": 64.99
     }
    ],
    "also_need": [
-    "garlic",
-    "olive oil",
-    "chilli flakes",
-    "salt and pepper",
-    "lemon",
-    "parsley or basil",
-    "grated Parmesan (optional)"
+    "cabbage or frozen stir-fry veg",
+    "spring onion",
+    "soy sauce",
+    "oil"
    ],
    "method": [
-    "Boil the pasta in well-salted water according to the packet.",
-    "Meanwhile, soften sliced garlic and chilli flakes in olive oil for 1 minute.",
-    "Add the chopped tomatoes and simmer for 8-10 minutes until thickened.",
-    "Stir in the drained shredded tuna and warm it through. Add a squeeze of lemon and season.",
-    "Toss with the drained pasta, adding a splash of pasta water if it looks dry. Top with herbs and Parmesan."
+    "Boil the noodles for about 3 minutes, then drain, keeping 2 tbsp of the water.",
+    "Stir-fry the shredded cabbage or frozen veg in a hot pan for 3-4 minutes.",
+    "Toss the noodles through the veg with the seasoning sachets, reserved water and a splash of soy sauce.",
+    "Fry one egg per person in a separate pan until the whites are crisp and the yolks still runny.",
+    "Top each bowl with an egg and sliced spring onion."
    ]
   },
   {
-   "title": "Slow-Braised Beef Short Ribs in Tomato Sauce",
-   "why": "Short ribs are on special at PnP, and a long, slow braise turns them tender. The pantry specials (tomatoes, paste, carrots, rice) round out the meal.",
-   "time_minutes": 210,
-   "uses": [
-    {
-     "item": "PnP Beef Short Ribs",
-     "store": "pnp",
-     "price": 109.99
-    },
-    {
-     "item": "Canned Chopped Tomatoes",
-     "store": "checkers",
-     "price": 14.99
-    },
-    {
-     "item": "Rhodes Tomato Paste Sachet 50g",
-     "store": "pnp",
-     "price": 7.49
-    },
-    {
-     "item": "PnP Carrots 1kg",
-     "store": "pnp",
-     "price": 14.99
-    },
-    {
-     "item": "Spekko Rice Parboiled 2kg",
-     "store": "pnp",
-     "price": 39.99
-    }
-   ],
-   "also_need": [
-    "onions",
-    "garlic",
-    "oil",
-    "salt and pepper",
-    "beef stock or water",
-    "red wine (optional)",
-    "bay leaves",
-    "thyme"
-   ],
-   "method": [
-    "Heat the oven to 160°C. Season the ribs well and brown them in a hot, oven-proof pot with oil. Set aside.",
-    "In the same pot, soften sliced onion and garlic. Stir in the tomato paste and cook for 2 minutes.",
-    "Add the chopped tomatoes, a cup of stock or water (and wine if using), bay leaf, thyme and chunky carrots. Return the ribs to the pot.",
-    "Cover and braise for 2.5-3 hours, until the meat is falling off the bone.",
-    "Cook the rice and serve the ribs and sauce over it."
-   ]
-  },
-  {
-   "title": "Classic Cottage Pie",
-   "why": "Lean beef mince is R109.99/kg at Checkers, and a 2kg bag of potatoes plus carrots and tomato paste stretch it into a family-sized pie.",
-   "time_minutes": 75,
+   "title": "Beef Mince and Macaroni Oven Bake",
+   "why": "Checkers lean mince, cheap macaroni and a R5 tomato paste sachet make a tray that feeds a family and gives you leftovers for lunch.",
+   "time_minutes": 70,
    "uses": [
     {
      "item": "Lean Beef Mince",
@@ -191,22 +130,22 @@
      "price": 109.99
     },
     {
-     "item": "PnP All Purpose Potatoes 2kg",
+     "item": "No Name Macaroni Pasta 500g",
      "store": "pnp",
-     "price": 48.99
+     "price": 14.0
     },
     {
-     "item": "PnP Carrots 1kg",
-     "store": "pnp",
+     "item": "Canned Chopped Tomatoes",
+     "store": "checkers",
      "price": 14.99
     },
     {
      "item": "Rhodes Tomato Paste Sachet 50g",
      "store": "pnp",
-     "price": 7.49
+     "price": 5.0
     },
     {
-     "item": "Clover Full Cream Fresh Milk 2L",
+     "item": "Clover Full Cream Fresh Milk",
      "store": "checkers",
      "price": 32.99
     }
@@ -214,58 +153,100 @@
    "also_need": [
     "onion",
     "garlic",
-    "oil",
-    "butter or margarine",
+    "mixed herbs",
     "flour",
-    "beef stock",
-    "Worcestershire sauce",
-    "salt and pepper",
-    "grated cheese (optional)"
+    "butter",
+    "grated cheese",
+    "salt and pepper"
    ],
    "method": [
-    "Peel and boil about 1kg of potatoes until soft. Mash with milk, butter, salt and pepper.",
-    "Brown the mince in a large pan with chopped onion, garlic and grated carrot. Stir in the tomato paste and a spoonful of flour.",
-    "Add stock and Worcestershire sauce and simmer for 15 minutes until thick. Season.",
-    "Spoon the mince into an oven dish, top with the mash, rough it up with a fork and add cheese if using.",
-    "Bake at 190°C for 25-30 minutes until golden on top."
+    "Brown 500g mince with a chopped onion and garlic. Add the chopped tomatoes, tomato paste, herbs and seasoning, and simmer for 15 minutes.",
+    "Boil the macaroni for 2 minutes less than the packet says, then drain.",
+    "Make a white sauce: melt 2 tbsp butter, stir in 2 tbsp flour, then slowly whisk in 2 cups milk until thick. Stir in half the cheese.",
+    "Mix the macaroni into the mince and pour into an ovenproof dish. Top with the white sauce and the remaining cheese.",
+    "Bake at 180°C for 30-35 minutes until golden and bubbling."
    ]
   },
   {
-   "title": "Sheet-Pan Chicken with Potatoes and Carrots",
-   "why": "SPAR's 4kg frozen chicken pack works out cheap per portion, and the potatoes and carrots are both on special, so it makes a low-effort tray bake.",
-   "time_minutes": 70,
+   "title": "Peri-Peri Chicken Livers on Rice",
+   "why": "A 500g pack of frozen chicken livers is only R21.50, which makes this one of the cheapest proteins on special.",
+   "time_minutes": 25,
    "uses": [
     {
-     "item": "SPAR Frozen Chicken Mixed Portions with a Brine Based Mixture (4kg)",
-     "store": "spar",
-     "price": 154.99
+     "item": "No Name Frozen Chicken Liver 500g",
+     "store": "pnp",
+     "price": 21.5
     },
     {
-     "item": "PnP All Purpose Potatoes 2kg",
+     "item": "Spekko Rice Parboiled 2kg",
      "store": "pnp",
-     "price": 48.99
+     "price": 29.99
     },
     {
-     "item": "PnP Carrots 1kg",
-     "store": "pnp",
+     "item": "Canned Chopped Tomatoes",
+     "store": "checkers",
      "price": 14.99
+    },
+    {
+     "item": "Rhodes Tomato Paste Sachet 50g",
+     "store": "pnp",
+     "price": 5.0
     }
    ],
    "also_need": [
-    "olive oil",
-    "paprika",
-    "garlic powder",
-    "dried mixed herbs",
-    "black pepper",
-    "lemon",
-    "salt (go light, as the chicken is brined)"
+    "onion",
+    "garlic",
+    "peri-peri spice or chilli flakes",
+    "oil",
+    "salt",
+    "fresh coriander or parsley"
    ],
    "method": [
-    "Thaw the chicken portions in the fridge the day before, then pat them very dry. Heat the oven to 200°C.",
-    "Cut the potatoes into chunks and the carrots into sticks. Toss with oil, herbs and pepper on a large baking tray.",
-    "Rub the chicken with oil, paprika, garlic powder and pepper. Nestle it among the vegetables, skin side up.",
-    "Roast for 45-55 minutes, turning the vegetables once, until the chicken juices run clear and the skin is crisp.",
-    "Squeeze lemon over the tray and serve. Freeze any leftover raw portions for another meal."
+    "Thaw the livers, pat them dry and trim any sinew.",
+    "Start the rice cooking.",
+    "Fry the onion and garlic in oil. Add the livers and sear for 3-4 minutes until browned.",
+    "Stir in the tomato paste, chopped tomatoes and peri-peri spice, then simmer for 8-10 minutes until the sauce thickens and the livers are just cooked through.",
+    "Serve over the rice with fresh herbs."
+   ]
+  },
+  {
+   "title": "Potato, Egg and Smoked Cheese Tortilla",
+   "why": "Potatoes, eggs and the PnP smoked cheese griller are all on special this week, so this vegetarian dinner needs hardly anything else.",
+   "time_minutes": 35,
+   "uses": [
+    {
+     "item": "PnP All Purpose Potatoes 2kg",
+     "store": "pnp",
+     "price": 35.0
+    },
+    {
+     "item": "Nulaid Large Eggs",
+     "store": "checkers",
+     "price": 64.99
+    },
+    {
+     "item": "PnP Smoked Cheese Griller 375g",
+     "store": "pnp",
+     "price": 45.0
+    },
+    {
+     "item": "PnP Double Cream Plain Yoghurt 1kg",
+     "store": "pnp",
+     "price": 37.99
+    }
+   ],
+   "also_need": [
+    "onion",
+    "oil",
+    "salt and pepper",
+    "side salad ingredients"
+   ],
+   "method": [
+    "Slice about 600g potatoes thinly and fry with a sliced onion in oil over medium heat for 12-15 minutes until soft.",
+    "Beat 6 eggs with salt and pepper and stir in half the cubed smoked cheese.",
+    "Pour the egg mix over the potatoes in the pan, cover and cook on low for 8-10 minutes until mostly set.",
+    "Top with the remaining cheese and grill for 3-4 minutes until golden.",
+    "Cut into wedges and serve with a yoghurt dollop and a side salad."
    ]
   }
  ]

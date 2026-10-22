@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T05:21+02:00",
+ "updated": "2026-10-22T05:22+02:00",
  "sources": {
   "checkers": {
    "name": "Checkers / Shoprite",
@@ -27,11 +27,11 @@
     {
      "url": "https://www.pnp.co.za/c/pnpbase?query=:relevance:allCategories:pnpbase:isOnPromotion:On%20Promotion",
      "ok": true,
-     "deals": 63
+     "deals": 60
     }
    ],
    "status": "ok",
-   "count": 63
+   "count": 60
   },
   "woolworths": {
    "name": "Woolworths",
@@ -40,7 +40,7 @@
     {
      "url": "https://www.woolworths.co.za/cat/Food/_/N-1z13sk5",
      "ok": true,
-     "deals": 5
+     "deals": 6
     },
     {
      "url": "https://www.woolworths.co.za/content/collection/food-promotions",
@@ -49,7 +49,7 @@
     }
    ],
    "status": "ok",
-   "count": 5
+   "count": 6
   },
   "spar": {
    "name": "SPAR",
@@ -57,13 +57,12 @@
    "urls": [
     {
      "url": "https://www.spar.co.za/Specials",
-     "ok": false,
-     "deals": 0
+     "ok": true,
+     "deals": 10
     }
    ],
-   "status": "stale",
-   "count": 0,
-   "note": "No deals found this run; showing the previous run's deals."
+   "status": "ok",
+   "count": 10
   }
  },
  "items": [
@@ -156,10 +155,10 @@
    "name": "PnP UHT Full Cream Milk 6 x 1L",
    "size": "6 x 1L",
    "category": "dairy & eggs",
-   "price": 89.99,
+   "price": 97.99,
    "was_price": 99.99,
    "loyalty_price": null,
-   "promo_text": null,
+   "promo_text": "Max 10 per order",
    "multi_buy": null,
    "valid_until": null
   },
@@ -168,8 +167,8 @@
    "name": "Coca-Cola Soft Drink 1.5L",
    "size": "1.5L",
    "category": "drinks",
-   "price": 21.99,
-   "was_price": null,
+   "price": 17.0,
+   "was_price": 21.99,
    "loyalty_price": null,
    "promo_text": "2 For R34.00",
    "multi_buy": {
@@ -180,23 +179,11 @@
   },
   {
    "store": "pnp",
-   "name": "McCain Skinny Cut Potato Fries 1kg",
-   "size": "1kg",
-   "category": "frozen",
-   "price": 62.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": "Combo For R90.00",
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Domestos Whitening Multipurpose Stain Removal Thick Bleach Cleaner 750ml",
+   "name": "Olof Bergh Brandy 750ml",
    "size": "750ml",
-   "category": "household",
-   "price": 29.99,
-   "was_price": 36.99,
+   "category": "drinks",
+   "price": 179.99,
+   "was_price": 199.99,
    "loyalty_price": null,
    "promo_text": null,
    "multi_buy": null,
@@ -204,13 +191,13 @@
   },
   {
    "store": "pnp",
-   "name": "PnP Hotdog Rolls 6 Pack",
-   "size": "6 Pack",
-   "category": "bakery",
-   "price": 18.99,
-   "was_price": null,
+   "name": "Durbanville Hills Sauvignon Blanc 750ml",
+   "size": "750ml",
+   "category": "drinks",
+   "price": 79.99,
+   "was_price": 99.99,
    "loyalty_price": null,
-   "promo_text": "Combo For R70.00",
+   "promo_text": null,
    "multi_buy": null,
    "valid_until": null
   },
@@ -219,7 +206,34 @@
    "name": "Brookes Oros 2L",
    "size": "2L",
    "category": "drinks",
-   "price": 45.99,
+   "price": 36.99,
+   "was_price": 45.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Doritos Sweet Chilli Pepper 145g",
+   "size": "145g",
+   "category": "snacks & sweets",
+   "price": 18.0,
+   "was_price": 25.99,
+   "loyalty_price": null,
+   "promo_text": "2 For R36.00",
+   "multi_buy": {
+    "qty": 2,
+    "total": 36
+   },
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Blue Ribbon White Toaster Bread 700g",
+   "size": "700g",
+   "category": "bakery",
+   "price": 20.99,
    "was_price": null,
    "loyalty_price": null,
    "promo_text": null,
@@ -240,142 +254,10 @@
   },
   {
    "store": "pnp",
-   "name": "PnP English Cucumber",
-   "size": null,
-   "category": "fruit & veg",
-   "price": 12.99,
-   "was_price": 16.99,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "PnP Kids Small Bananas",
-   "size": null,
-   "category": "fruit & veg",
-   "price": 22.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": "2 For R35.00",
-   "multi_buy": {
-    "qty": 2,
-    "total": 35
-   },
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "PnP Carrots 1kg",
-   "size": "1kg",
-   "category": "fruit & veg",
-   "price": 14.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Douwe Egberts Excellent Gold Lungo 7 Coffee Capsules 20 Pack",
-   "size": "20 Pack",
-   "category": "drinks",
-   "price": 144.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": "Coffee Club: 2 For R220.00",
-   "multi_buy": {
-    "qty": 2,
-    "total": 220
-   },
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Doritos Sweet Chilli Pepper 145g",
-   "size": "145g",
-   "category": "snacks & sweets",
-   "price": 25.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": "2 For R36.00",
-   "multi_buy": {
-    "qty": 2,
-    "total": 36
-   },
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Rhodes Tomato Paste Sachet 50g",
-   "size": "50g",
-   "category": "pantry",
-   "price": 7.49,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": "5 For R25.00",
-   "multi_buy": {
-    "qty": 5,
-    "total": 25
-   },
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "PnP Full Cream Fresh Milk 2L",
-   "size": "2L",
-   "category": "dairy & eggs",
-   "price": 32.99,
-   "was_price": 34.99,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "No Name Brown Sugar 2kg",
-   "size": "2kg",
-   "category": "pantry",
-   "price": 44.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Spekko Rice Parboiled 2kg",
-   "size": "2kg",
-   "category": "pantry",
-   "price": 39.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Olof Bergh Brandy 750ml",
+   "name": "Klipdrift Premium Brandy 750ml",
    "size": "750ml",
    "category": "drinks",
-   "price": 179.99,
-   "was_price": 199.99,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Robertsons Bicarbonate Of Soda 2kg",
-   "size": "2kg",
-   "category": "pantry",
-   "price": 94.99,
+   "price": 264.99,
    "was_price": null,
    "loyalty_price": null,
    "promo_text": null,
@@ -384,17 +266,14 @@
   },
   {
    "store": "pnp",
-   "name": "PnP Avocado",
-   "size": null,
-   "category": "fruit & veg",
-   "price": 10.0,
+   "name": "Richelieu Brandy 750ml",
+   "size": "750ml",
+   "category": "drinks",
+   "price": 239.99,
    "was_price": null,
    "loyalty_price": null,
-   "promo_text": "3 For R30.00",
-   "multi_buy": {
-    "qty": 3,
-    "total": 30
-   },
+   "promo_text": null,
+   "multi_buy": null,
    "valid_until": null
   },
   {
@@ -414,11 +293,86 @@
   },
   {
    "store": "pnp",
+   "name": "PnP Full Cream Fresh Milk 2L",
+   "size": "2L",
+   "category": "dairy & eggs",
+   "price": 32.99,
+   "was_price": 34.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Spekko Rice Parboiled 2kg",
+   "size": "2kg",
+   "category": "pantry",
+   "price": 29.99,
+   "was_price": 39.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "No Name Brown Sugar 2kg",
+   "size": "2kg",
+   "category": "pantry",
+   "price": 44.99,
+   "was_price": 62.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Rhodes Tomato Paste Sachet 50g",
+   "size": "50g",
+   "category": "pantry",
+   "price": 5.0,
+   "was_price": 7.49,
+   "loyalty_price": null,
+   "promo_text": "5 For R25.00",
+   "multi_buy": {
+    "qty": 5,
+    "total": 25
+   },
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Comfort Uplifting Fabric Conditioners 1.5 Litre",
+   "size": "1.5L",
+   "category": "household",
+   "price": 109.99,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Vaseline Cera-Glow Body Gel-Oil 200ml",
+   "size": "200ml",
+   "category": "personal care",
+   "price": 189.99,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
    "name": "Simba NikNaks Cheese Flavoured Maize Snack 135g",
    "size": "135g",
    "category": "snacks & sweets",
-   "price": 15.99,
-   "was_price": null,
+   "price": 13.0,
+   "was_price": 15.99,
    "loyalty_price": null,
    "promo_text": "2 For R26.00",
    "multi_buy": {
@@ -432,35 +386,14 @@
    "name": "PnP All Purpose Potatoes 2kg",
    "size": "2kg",
    "category": "fruit & veg",
-   "price": 48.99,
-   "was_price": null,
+   "price": 35.0,
+   "was_price": 48.99,
    "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Knorrox Chicken Stock Cubes 12 x 10g",
-   "size": "12 x 10g",
-   "category": "pantry",
-   "price": 12.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Durbanville Hills Sauvignon Blanc 750ml",
-   "size": "750ml",
-   "category": "drinks",
-   "price": 79.99,
-   "was_price": 99.99,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
+   "promo_text": "4 For R140.00",
+   "multi_buy": {
+    "qty": 4,
+    "total": 140
+   },
    "valid_until": null
   },
   {
@@ -477,48 +410,24 @@
   },
   {
    "store": "pnp",
-   "name": "PnP Kidz Red Apples 1kg",
-   "size": "1kg",
-   "category": "fruit & veg",
-   "price": 24.99,
-   "was_price": null,
+   "name": "Simba Fritos Sweet Chilli Strip 25g",
+   "size": "25g",
+   "category": "snacks & sweets",
+   "price": 15.0,
+   "was_price": 16.99,
    "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Baby Soft 2Ply Fresh White Toilet Paper 24 Pack",
-   "size": "24 Pack",
-   "category": "household",
-   "price": 150.0,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": "2 For R300.00",
+   "promo_text": "2 For R30.00",
    "multi_buy": {
     "qty": 2,
-    "total": 300
+    "total": 30
    },
    "valid_until": null
   },
   {
    "store": "pnp",
-   "name": "Blue Ribbon White Toaster Bread 700g",
-   "size": "700g",
-   "category": "bakery",
-   "price": 20.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "All Purpose Cleaner Handy Andy & Domestos Value Pack",
-   "size": null,
-   "category": "household",
+   "name": "Drostdy Hof Extra Light White 750ml",
+   "size": "750ml",
+   "category": "drinks",
    "price": 59.99,
    "was_price": null,
    "loyalty_price": null,
@@ -528,32 +437,14 @@
   },
   {
    "store": "pnp",
-   "name": "Doritos Sweet Chilli Corn Chips Strip 4 x 30g",
-   "size": "4 x 30g",
-   "category": "snacks & sweets",
-   "price": 20.0,
+   "name": "Hunters Dry Can 24 x 440ml",
+   "size": "24 x 440ml",
+   "category": "drinks",
+   "price": 449.99,
    "was_price": null,
    "loyalty_price": null,
-   "promo_text": "2 For R40.00",
-   "multi_buy": {
-    "qty": 2,
-    "total": 40
-   },
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Aer Power Pocket Rose Fresh Blossom Home Fragrance 10g",
-   "size": "10g",
-   "category": "household",
-   "price": 19.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": "3 For R50.00",
-   "multi_buy": {
-    "qty": 3,
-    "total": 50
-   },
+   "promo_text": null,
+   "multi_buy": null,
    "valid_until": null
   },
   {
@@ -597,25 +488,10 @@
   },
   {
    "store": "pnp",
-   "name": "Simba Fritos Sweet Chilli Strip 25g",
-   "size": "25g",
-   "category": "snacks & sweets",
-   "price": 16.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": "2 For R30.00",
-   "multi_buy": {
-    "qty": 2,
-    "total": 30
-   },
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Savanna Dry Can 12 x 500ml",
-   "size": "12 x 500ml",
+   "name": "Savanna Alcoholic Free Lemon NRB 330ml",
+   "size": "330ml",
    "category": "drinks",
-   "price": 259.99,
+   "price": 24.0,
    "was_price": null,
    "loyalty_price": null,
    "promo_text": null,
@@ -624,10 +500,10 @@
   },
   {
    "store": "pnp",
-   "name": "Vaseline Cera-Glow Body Gel-Oil 200ml",
-   "size": "200ml",
-   "category": "personal care",
-   "price": 189.99,
+   "name": "Bernini Blush NRB 24 x 275ml",
+   "size": "24 x 275ml",
+   "category": "drinks",
+   "price": 374.99,
    "was_price": null,
    "loyalty_price": null,
    "promo_text": null,
@@ -655,7 +531,7 @@
    "size": "500g",
    "category": "meat & fish",
    "price": 21.5,
-   "was_price": null,
+   "was_price": 24.99,
    "loyalty_price": null,
    "promo_text": "2 For R43.00",
    "multi_buy": {
@@ -666,22 +542,37 @@
   },
   {
    "store": "pnp",
-   "name": "Klipdrift Copper Royale 750ml",
+   "name": "No Name Super Absorbent Roller Towels 2 Pack",
+   "size": "2 pack",
+   "category": "household",
+   "price": 20.0,
+   "was_price": 27.99,
+   "loyalty_price": null,
+   "promo_text": "2 For R40.00",
+   "multi_buy": {
+    "qty": 2,
+    "total": 40
+   },
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Handy Andy Green Tea & Eaucalyptus Multi Surface Cleaner Spray 750ml",
    "size": "750ml",
-   "category": "drinks",
-   "price": 154.99,
+   "category": "household",
+   "price": 54.99,
    "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Save 10%",
+   "promo_text": null,
    "multi_buy": null,
    "valid_until": null
   },
   {
    "store": "pnp",
-   "name": "Neutrogena Spot Control Wash Mask 150ml",
-   "size": "150ml",
-   "category": "personal care",
-   "price": 169.99,
+   "name": "J C Le Roux Nectar Demi Sec Rose 750ml",
+   "size": "750ml",
+   "category": "drinks",
+   "price": 129.99,
    "was_price": null,
    "loyalty_price": null,
    "promo_text": null,
@@ -717,25 +608,49 @@
   },
   {
    "store": "pnp",
-   "name": "Nestle Dessert & Cooking Cream 290g",
-   "size": "290g",
-   "category": "pantry",
-   "price": 43.99,
+   "name": "Colgate Optic White Fresh Mint Mouthwash, Whitening 500ml",
+   "size": "500ml",
+   "category": "personal care",
+   "price": 104.99,
    "was_price": null,
    "loyalty_price": null,
-   "promo_text": "3 For R100.00",
+   "promo_text": "Save 10%",
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Danone Ultra Mel Vanilla Flavoured Custard 1kg",
+   "size": "1kg",
+   "category": "dairy & eggs",
+   "price": 25.0,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": "2 For R50.00",
    "multi_buy": {
-    "qty": 3,
-    "total": 100
+    "qty": 2,
+    "total": 50
    },
    "valid_until": null
   },
   {
    "store": "pnp",
-   "name": "No Name Super Absorbent Roller Towels 2 Pack",
-   "size": "2 Pack",
-   "category": "household",
-   "price": 27.99,
+   "name": "PnP Dessert Topped Buns 6 Pack",
+   "size": "6 pack",
+   "category": "bakery",
+   "price": 22.99,
+   "was_price": 25.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Sasko Premium Sliced Brown Bread 700g",
+   "size": "700g",
+   "category": "bakery",
+   "price": 14.99,
    "was_price": null,
    "loyalty_price": null,
    "promo_text": null,
@@ -744,26 +659,50 @@
   },
   {
    "store": "pnp",
-   "name": "McCain Fry Chips 900g",
-   "size": "900g",
-   "category": "frozen",
-   "price": 54.99,
+   "name": "Aquafresh Fresh & Minty Toothpaste 100ml",
+   "size": "100ml",
+   "category": "personal care",
+   "price": 18.99,
    "was_price": null,
    "loyalty_price": null,
-   "promo_text": "2 For R90.00",
+   "promo_text": "1 For R18.99",
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Nederburg Double Barrel Reserve 750ml",
+   "size": "750ml",
+   "category": "drinks",
+   "price": 154.99,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "PnP Queen Pineapple",
+   "size": null,
+   "category": "fruit & veg",
+   "price": 17.5,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": "2 For R35.00",
    "multi_buy": {
     "qty": 2,
-    "total": 90
+    "total": 35
    },
    "valid_until": null
   },
   {
    "store": "pnp",
-   "name": "Bakers Original Romany Creams Biscuits 200g",
-   "size": "200g",
-   "category": "snacks & sweets",
-   "price": 34.99,
-   "was_price": 46.99,
+   "name": "Clover UHT Full Cream Long Life Milk 6 x 1L",
+   "size": "6 x 1L",
+   "category": "dairy & eggs",
+   "price": 99.99,
+   "was_price": 119.99,
    "loyalty_price": null,
    "promo_text": null,
    "multi_buy": null,
@@ -786,69 +725,6 @@
   },
   {
    "store": "pnp",
-   "name": "PnP Dessert Topped Buns 6 Pack",
-   "size": "6 Pack",
-   "category": "bakery",
-   "price": 22.99,
-   "was_price": 25.99,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Danone Ultra Mel Vanilla Flavoured Custard 1kg",
-   "size": "1kg",
-   "category": "dairy & eggs",
-   "price": 25.0,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": "2 For R50.00",
-   "multi_buy": {
-    "qty": 2,
-    "total": 50
-   },
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Cola-Cola No Sugar & No Caffeine 1.5L",
-   "size": "1.5L",
-   "category": "drinks",
-   "price": 17.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Robertsons Rajah Mild Masala 7g",
-   "size": "7g",
-   "category": "pantry",
-   "price": 3.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Aquafresh Fresh & Minty Toothpaste 100ml",
-   "size": "100ml",
-   "category": "personal care",
-   "price": 18.99,
-   "was_price": 26.99,
-   "loyalty_price": null,
-   "promo_text": "1 For R18.99",
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
    "name": "Stork Country 40% Fat Spread 1kg",
    "size": "1kg",
    "category": "dairy & eggs",
@@ -864,11 +740,11 @@
   },
   {
    "store": "pnp",
-   "name": "Clover UHT Full Cream Long Life Milk 6 x 1L",
-   "size": "6 x 1L",
-   "category": "dairy & eggs",
-   "price": 99.99,
-   "was_price": 119.99,
+   "name": "Nestle KitKat Salted Caramel Chocolate 99g",
+   "size": "99g",
+   "category": "snacks & sweets",
+   "price": 18.99,
+   "was_price": 44.99,
    "loyalty_price": null,
    "promo_text": null,
    "multi_buy": null,
@@ -876,46 +752,10 @@
   },
   {
    "store": "pnp",
-   "name": "Cremora Coffee & Tea Creamer 750g",
-   "size": "750g",
+   "name": "Mrs H.S.Ball's Original Chutney 470g",
+   "size": "470g",
    "category": "pantry",
-   "price": 69.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Yum Yum Peanut Butter Smooth 400g",
-   "size": "400g",
-   "category": "pantry",
-   "price": 52.99,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": null,
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "PnP Beef Short Ribs",
-   "size": null,
-   "category": "meat & fish",
-   "price": 109.99,
-   "was_price": 149.99,
-   "loyalty_price": null,
-   "promo_text": "R109.99/kg",
-   "multi_buy": null,
-   "valid_until": null
-  },
-  {
-   "store": "pnp",
-   "name": "Savanna Dry NRB 6 x 330ml",
-   "size": "6 x 330ml",
-   "category": "drinks",
-   "price": 124.99,
+   "price": 34.99,
    "was_price": null,
    "loyalty_price": null,
    "promo_text": null,
@@ -939,6 +779,117 @@
   },
   {
    "store": "pnp",
+   "name": "Bakers Original Romany Creams Biscuits 200g",
+   "size": "200g",
+   "category": "snacks & sweets",
+   "price": 46.99,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Cremora Coffee & Tea Creamer 750g",
+   "size": "750g",
+   "category": "pantry",
+   "price": 72.99,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "PnP Panini 4 Pack",
+   "size": "4 pack",
+   "category": "bakery",
+   "price": 15.0,
+   "was_price": 18.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "No Name Sunflower Oil 2L",
+   "size": "2L",
+   "category": "pantry",
+   "price": 89.99,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Dettol Soap Fresh 175g",
+   "size": "175g",
+   "category": "personal care",
+   "price": 19.99,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Klipdrift Export Brandy 750ml",
+   "size": "750ml",
+   "category": "drinks",
+   "price": 229.99,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Ghost Pops Original Maize Snack 4 x 14g",
+   "size": "4 x 14g",
+   "category": "snacks & sweets",
+   "price": 12.0,
+   "was_price": 13.99,
+   "loyalty_price": null,
+   "promo_text": "2 For R24.00",
+   "multi_buy": {
+    "qty": 2,
+    "total": 24
+   },
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "PnP Cheddar Cheese 700g",
+   "size": "700g",
+   "category": "dairy & eggs",
+   "price": 119.99,
+   "was_price": 129.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
+   "name": "Indomie Mi Goreng Fried Instant Noodles 85g",
+   "size": "85g",
+   "category": "pantry",
+   "price": 5.99,
+   "was_price": 7.99,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "pnp",
    "name": "Maq Auto Washing Powder 2kg",
    "size": "2kg",
    "category": "household",
@@ -954,11 +905,11 @@
   },
   {
    "store": "pnp",
-   "name": "PnP Panini 4 Pack",
-   "size": "4 Pack",
-   "category": "bakery",
-   "price": 15.0,
-   "was_price": 18.99,
+   "name": "Savanna Alcoholic Free Lemon NRB 6 x 330ml",
+   "size": "6 x 330ml",
+   "category": "drinks",
+   "price": 124.99,
+   "was_price": null,
    "loyalty_price": null,
    "promo_text": null,
    "multi_buy": null,
@@ -966,11 +917,11 @@
   },
   {
    "store": "pnp",
-   "name": "Freshpak Rooibos Tagless Tea Bags 80 Pack",
-   "size": "80 Pack",
-   "category": "drinks",
-   "price": 56.99,
-   "was_price": null,
+   "name": "PnP Smoked Cheese Griller 375g",
+   "size": "375g",
+   "category": "dairy & eggs",
+   "price": 45.0,
+   "was_price": 64.99,
    "loyalty_price": null,
    "promo_text": null,
    "multi_buy": null,
@@ -985,6 +936,18 @@
    "was_price": 119.99,
    "loyalty_price": null,
    "promo_text": "Save R20 / kg",
+   "multi_buy": null,
+   "valid_until": null
+  },
+  {
+   "store": "woolworths",
+   "name": "Nescafé Classic",
+   "size": null,
+   "category": "pantry",
+   "price": 129.99,
+   "was_price": 149.99,
+   "loyalty_price": null,
+   "promo_text": "Save R20",
    "multi_buy": null,
    "valid_until": null
   },
@@ -1044,78 +1007,129 @@
   },
   {
    "store": "spar",
-   "name": "SPAR Extra Shelf Life Full Cream Fresh Milk (2L)",
-   "size": "2 L",
+   "name": "SPAR Long Life Full Cream Milk (6x1L)",
+   "size": "6 x 1L",
    "category": "dairy & eggs",
-   "price": 32.99,
+   "price": 89.99,
    "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Save R5",
+   "promo_text": "Save R15.00",
    "multi_buy": null,
-   "valid_until": "2026-10-18"
+   "valid_until": "2026-11-08"
   },
   {
    "store": "spar",
-   "name": "SPAR Gouda Cheese Vacuum Pack (700g)",
-   "size": "700 g",
-   "category": "dairy & eggs",
-   "price": 99.99,
+   "name": "Bokomo Weet-Bix Wholegrain Wheat Biscuits (48pk)",
+   "size": "48 pk",
+   "category": "pantry",
+   "price": 49.99,
    "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Save R43",
+   "promo_text": null,
    "multi_buy": null,
-   "valid_until": "2026-10-18"
+   "valid_until": "2026-11-08"
   },
   {
    "store": "spar",
-   "name": "SPAR Smoked Ham (200g)",
-   "size": "200 g",
-   "category": "meat & fish",
-   "price": 25.0,
+   "name": "NOLA Original Mayonnaise (750g)",
+   "size": "750g",
+   "category": "pantry",
+   "price": 39.99,
    "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Buy Any 2 for R50",
+   "promo_text": "Save R10.00",
+   "multi_buy": null,
+   "valid_until": "2026-11-08"
+  },
+  {
+   "store": "spar",
+   "name": "Sunlight 5-in-1 Hand Washing Powder, Tropical Sensations (2kg)",
+   "size": "2kg",
+   "category": "household",
+   "price": 56.99,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": "Save R13.00",
+   "multi_buy": null,
+   "valid_until": "2026-11-08"
+  },
+  {
+   "store": "spar",
+   "name": "OLA Rich 'n Creamy Ice Cream, Vanilla Flavoured (1.8L)",
+   "size": "1.8L",
+   "category": "frozen",
+   "price": 50.0,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": "Buy Any 2 for R100.00",
    "multi_buy": {
     "qty": 2,
-    "total": 50
+    "total": 100
    },
-   "valid_until": "2026-10-18"
+   "valid_until": "2026-11-08"
   },
   {
    "store": "spar",
-   "name": "SPAR Frozen Chicken Mixed Portions with a Brine Based Mixture (4kg)",
-   "size": "4 kg",
-   "category": "meat & fish",
-   "price": 154.99,
+   "name": "Dettol Hygiene Bath Soap Bar, Original (175g)",
+   "size": "175g",
+   "category": "personal care",
+   "price": 28.0,
    "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Save R44",
+   "promo_text": "Save R12.00",
    "multi_buy": null,
-   "valid_until": "2026-10-18"
+   "valid_until": "2026-11-08"
   },
   {
    "store": "spar",
-   "name": "Cadbury 5 Star Chocolate Bar (48.5g)",
-   "size": "48.5 g",
-   "category": "snacks & sweets",
-   "price": 22.0,
-   "was_price": null,
-   "loyalty_price": null,
-   "promo_text": "Save R10",
-   "multi_buy": null,
-   "valid_until": "2026-10-18"
-  },
-  {
-   "store": "spar",
-   "name": "Douwe Egberts Medium Roast Coffee, Pure Gold (200g)",
-   "size": "200g",
+   "name": "Black Cat Crunchy Peanut Butter (400g)",
+   "size": "400g",
    "category": "pantry",
-   "price": 179.99,
+   "price": 35.0,
    "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Save R50",
+   "promo_text": "Buy Any 2 for R70.00",
+   "multi_buy": {
+    "qty": 2,
+    "total": 70
+   },
+   "valid_until": "2026-11-08"
+  },
+  {
+   "store": "spar",
+   "name": "Freshpak Pure Rooibos Teabags (80pk)",
+   "size": "80pk",
+   "category": "drinks",
+   "price": 46.99,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": "Save R11.00",
    "multi_buy": null,
-   "valid_until": "2026-10-18"
+   "valid_until": "2026-11-08"
+  },
+  {
+   "store": "spar",
+   "name": "Lay's Potato Chips, Sweet & Smoky American BBQ Flavour (120g)",
+   "size": "120g",
+   "category": "snacks & sweets",
+   "price": 39.0,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": null,
+   "multi_buy": null,
+   "valid_until": "2026-11-08"
+  },
+  {
+   "store": "spar",
+   "name": "NESCAFÉ Gold Soluble Coffee (200g)",
+   "size": "200g",
+   "category": "drinks",
+   "price": 149.99,
+   "was_price": null,
+   "loyalty_price": null,
+   "promo_text": "Save R45.00",
+   "multi_buy": null,
+   "valid_until": "2026-11-08"
   }
  ]
 }
