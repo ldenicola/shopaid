@@ -1,51 +1,50 @@
 {
- "updated": "2026-10-22T05:22+02:00",
+ "updated": "2026-10-26T05:25+02:00",
  "meals": [
   {
-   "title": "Braai Pork Chops with Pineapple-Chutney Glaze and Foil Potatoes",
-   "why": "PnP pork braai chops, a Queen pineapple and 2kg of potatoes are all on special this week, so the whole braai comes from one store.",
+   "title": "Braai Boerewors & Chutney-Glazed Pork Chops with Foil Potatoes",
+   "why": "Boerewors and pork chops are both on special, and the cheap 2kg bag of potatoes bulks out the braai.",
    "time_minutes": 50,
    "uses": [
+    {
+     "item": "Boerewors Traditional",
+     "store": "checkers",
+     "price": 99.99
+    },
     {
      "item": "PnP Pork Braai Chops",
      "store": "pnp",
      "price": 69.99
     },
     {
-     "item": "PnP Queen Pineapple",
+     "item": "PnP All Purpose Potatoes 2kg",
      "store": "pnp",
-     "price": 17.5
+     "price": 35.0
     },
     {
      "item": "Mrs H.S.Ball's Original Chutney 470g",
      "store": "pnp",
      "price": 34.99
-    },
-    {
-     "item": "PnP All Purpose Potatoes 2kg",
-     "store": "pnp",
-     "price": 35.0
     }
    ],
    "also_need": [
-    "butter or Stork spread",
+    "onion",
+    "butter or oil",
     "salt and pepper",
-    "garlic",
-    "foil",
-    "green salad ingredients"
+    "tomato and lettuce for a side salad"
    ],
    "method": [
-    "Light the fire. Cut the potatoes into chunks, toss with oil, salt and butter, wrap in foil parcels and place on the coals for 35-40 minutes.",
-    "Mix 3 tbsp chutney with a little oil, crushed garlic and pepper. Coat the pork chops and leave them for 15 minutes.",
-    "Peel the pineapple, cut into thick rings and brush with a little chutney.",
-    "Braai the chops over medium coals for 4-5 minutes per side until cooked through. Braai the pineapple rings for 2-3 minutes per side until caramelised.",
-    "Serve the chops with the potatoes, pineapple and a green salad."
+    "Slice the potatoes into wedges, toss with oil, salt and pepper, wrap in foil parcels with onion slices and put on the coals for about 35 minutes.",
+    "Mix 2 tbsp chutney with a little oil and brush it on the pork chops.",
+    "Braai the chops for 5-6 minutes per side, brushing with more glaze as they cook.",
+    "Braai the boerewors over medium coals for 15-20 minutes, turning once.",
+    "Rest the meat for 5 minutes and serve with the potatoes, salad and extra chutney."
    ]
   },
   {
-   "title": "Butternut and Tomato Curry with Rice",
-   "why": "Butternut is only R14.99/kg at Checkers and bulks out a vegetarian curry, which is served with cheap parboiled rice.",
-   "time_minutes": 45,
+   "title": "Butternut & Tomato Curry with Parboiled Rice",
+   "why": "Butternut is in season in the Cape and only R14.99/kg, and with rice and tinned tomatoes this feeds the family for very little.",
+   "time_minutes": 40,
    "uses": [
     {
      "item": "Butternut",
@@ -77,21 +76,20 @@
     "onion",
     "garlic",
     "curry powder",
-    "canned chickpeas",
-    "oil",
-    "salt"
+    "salt",
+    "fresh coriander (optional)"
    ],
    "method": [
-    "Fry a chopped onion and garlic in oil until soft, then add 2 tbsp curry powder and the tomato paste and stir for 1 minute.",
-    "Add the chopped tomatoes, about 1 cup of water and the peeled, cubed butternut. Simmer for 20-25 minutes until tender.",
-    "Add the drained chickpeas and cook for 5 minutes more. Season with salt.",
+    "Fry a chopped onion and garlic in oil until soft, then stir in 1-2 tbsp curry powder for a minute.",
+    "Add the tomato paste, chopped tomatoes and about 1 cup of water, and simmer for 5 minutes.",
+    "Add peeled butternut cubes and simmer covered for 20-25 minutes until soft.",
     "Cook the rice according to the packet.",
-    "Serve the curry over the rice with a dollop of plain yoghurt."
+    "Serve the curry over the rice with a spoon of cold yoghurt on top."
    ]
   },
   {
-   "title": "Mi Goreng with Fried Eggs and Veg",
-   "why": "Indomie is under R6 a packet and a tray of Nulaid eggs adds protein, so dinner costs very little per person.",
+   "title": "Mi Goreng Noodles with Fried Egg & Veg",
+   "why": "At under R6 a pack, Indomie plus a couple of eggs from the 18-tray makes a filling dinner for very little.",
    "time_minutes": 15,
    "uses": [
     {
@@ -106,22 +104,22 @@
     }
    ],
    "also_need": [
-    "cabbage or frozen stir-fry veg",
+    "cabbage or frozen mixed veg",
+    "carrot",
     "spring onion",
-    "soy sauce",
-    "oil"
+    "soy sauce (optional)"
    ],
    "method": [
-    "Boil the noodles for about 3 minutes, then drain, keeping 2 tbsp of the water.",
-    "Stir-fry the shredded cabbage or frozen veg in a hot pan for 3-4 minutes.",
-    "Toss the noodles through the veg with the seasoning sachets, reserved water and a splash of soy sauce.",
-    "Fry one egg per person in a separate pan until the whites are crisp and the yolks still runny.",
+    "Boil the noodles for 3 minutes, then drain and keep the seasoning sachets.",
+    "Stir-fry shredded cabbage and carrot in a hot pan for 2-3 minutes.",
+    "Toss the noodles into the pan with the Indomie sachets and a splash of soy sauce.",
+    "Fry an egg per person in a separate pan until the edges are crispy.",
     "Top each bowl with an egg and sliced spring onion."
    ]
   },
   {
-   "title": "Beef Mince and Macaroni Oven Bake",
-   "why": "Checkers lean mince, cheap macaroni and a R5 tomato paste sachet make a tray that feeds a family and gives you leftovers for lunch.",
+   "title": "Beef Mince Macaroni Bake",
+   "why": "Lean beef mince is on special at Checkers, and macaroni and tomato paste stretch it into a big oven dish that gives leftovers for lunch.",
    "time_minutes": 70,
    "uses": [
     {
@@ -145,31 +143,35 @@
      "price": 5.0
     },
     {
-     "item": "Clover Full Cream Fresh Milk",
-     "store": "checkers",
+     "item": "PnP Cheddar Cheese 700g",
+     "store": "pnp",
+     "price": 119.99
+    },
+    {
+     "item": "PnP Full Cream Fresh Milk 2L",
+     "store": "pnp",
      "price": 32.99
     }
    ],
    "also_need": [
     "onion",
     "garlic",
-    "mixed herbs",
     "flour",
-    "butter",
-    "grated cheese",
+    "butter or Stork spread",
+    "mixed herbs",
     "salt and pepper"
    ],
    "method": [
-    "Brown 500g mince with a chopped onion and garlic. Add the chopped tomatoes, tomato paste, herbs and seasoning, and simmer for 15 minutes.",
-    "Boil the macaroni for 2 minutes less than the packet says, then drain.",
-    "Make a white sauce: melt 2 tbsp butter, stir in 2 tbsp flour, then slowly whisk in 2 cups milk until thick. Stir in half the cheese.",
-    "Mix the macaroni into the mince and pour into an ovenproof dish. Top with the white sauce and the remaining cheese.",
-    "Bake at 180°C for 30-35 minutes until golden and bubbling."
+    "Preheat the oven to 190°C and cook the macaroni until just al dente.",
+    "Brown about 500g mince with onion and garlic, then add the tomato paste, chopped tomatoes and herbs, and simmer for 15 minutes.",
+    "Make a white sauce: melt 2 tbsp butter, stir in 2 tbsp flour, whisk in 2 cups milk until thick, then add half the grated cheddar.",
+    "Mix the pasta into the mince sauce, put it in an ovenproof dish and pour the white sauce over.",
+    "Top with the remaining cheese and bake for 25-30 minutes until golden."
    ]
   },
   {
-   "title": "Peri-Peri Chicken Livers on Rice",
-   "why": "A 500g pack of frozen chicken livers is only R21.50, which makes this one of the cheapest proteins on special.",
+   "title": "Peri-Peri Chicken Livers on Toasted Panini",
+   "why": "Chicken livers are R21.50 for 500g, which makes this one of the cheapest proteins in the specials.",
    "time_minutes": 25,
    "uses": [
     {
@@ -178,75 +180,69 @@
      "price": 21.5
     },
     {
-     "item": "Spekko Rice Parboiled 2kg",
+     "item": "PnP Panini 4 Pack",
      "store": "pnp",
-     "price": 29.99
+     "price": 15.0
     },
     {
      "item": "Canned Chopped Tomatoes",
      "store": "checkers",
      "price": 14.99
-    },
-    {
-     "item": "Rhodes Tomato Paste Sachet 50g",
-     "store": "pnp",
-     "price": 5.0
     }
    ],
    "also_need": [
     "onion",
     "garlic",
-    "peri-peri spice or chilli flakes",
+    "peri-peri sauce or chilli flakes",
     "oil",
-    "salt",
-    "fresh coriander or parsley"
+    "salt"
    ],
    "method": [
-    "Thaw the livers, pat them dry and trim any sinew.",
-    "Start the rice cooking.",
-    "Fry the onion and garlic in oil. Add the livers and sear for 3-4 minutes until browned.",
-    "Stir in the tomato paste, chopped tomatoes and peri-peri spice, then simmer for 8-10 minutes until the sauce thickens and the livers are just cooked through.",
-    "Serve over the rice with fresh herbs."
+    "Thaw the livers in the fridge during the day, then pat dry.",
+    "Fry onion and garlic in oil until golden, then add the livers and fry on high heat for 4-5 minutes.",
+    "Add the chopped tomatoes and peri-peri sauce and simmer for 8-10 minutes until thick.",
+    "Split and toast the panini.",
+    "Spoon the livers over the panini and serve with a green salad."
    ]
   },
   {
-   "title": "Potato, Egg and Smoked Cheese Tortilla",
-   "why": "Potatoes, eggs and the PnP smoked cheese griller are all on special this week, so this vegetarian dinner needs hardly anything else.",
-   "time_minutes": 35,
+   "title": "One-Tray Roast Chicken, Potato & Butternut Bake",
+   "why": "The 5kg braaipack works out far cheaper per portion than fresh chicken, and you can freeze what you don't use, while potatoes and butternut fill the tray.",
+   "time_minutes": 75,
    "uses": [
+    {
+     "item": "No Name Frozen Chicken Braaipack 5kg",
+     "store": "pnp",
+     "price": 199.99
+    },
     {
      "item": "PnP All Purpose Potatoes 2kg",
      "store": "pnp",
      "price": 35.0
     },
     {
-     "item": "Nulaid Large Eggs",
+     "item": "Butternut",
      "store": "checkers",
-     "price": 64.99
+     "price": 14.99
     },
     {
-     "item": "PnP Smoked Cheese Griller 375g",
+     "item": "Mrs H.S.Ball's Original Chutney 470g",
      "store": "pnp",
-     "price": 45.0
-    },
-    {
-     "item": "PnP Double Cream Plain Yoghurt 1kg",
-     "store": "pnp",
-     "price": 37.99
+     "price": 34.99
     }
    ],
    "also_need": [
-    "onion",
-    "oil",
-    "salt and pepper",
-    "side salad ingredients"
+    "sunflower oil or olive oil",
+    "paprika",
+    "garlic",
+    "salt and pepper"
    ],
    "method": [
-    "Slice about 600g potatoes thinly and fry with a sliced onion in oil over medium heat for 12-15 minutes until soft.",
-    "Beat 6 eggs with salt and pepper and stir in half the cubed smoked cheese.",
-    "Pour the egg mix over the potatoes in the pan, cover and cook on low for 8-10 minutes until mostly set.",
-    "Top with the remaining cheese and grill for 3-4 minutes until golden.",
-    "Cut into wedges and serve with a yoghurt dollop and a side salad."
+    "Thaw about a third of the chicken pieces overnight in the fridge and refreeze the rest in portions.",
+    "Preheat the oven to 200°C and toss chopped potatoes and butternut in oil, paprika, garlic, salt and pepper in a large tray.",
+    "Nestle the chicken pieces on top, skin side up, and season well.",
+    "Roast for 50-60 minutes, brushing the chicken with chutney in the last 10 minutes.",
+    "Check that the chicken is cooked through and the juices run clear, then serve straight from the tray."
    ]
   }
  ]
