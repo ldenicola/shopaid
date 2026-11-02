@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:34+02:00",
+ "updated": "2026-11-02T05:44+02:00",
  "sources": {
   "checkers": {
    "name": "Checkers / Shoprite",
@@ -26,12 +26,13 @@
    "urls": [
     {
      "url": "https://www.pnp.co.za/c/pnpbase?query=:relevance:allCategories:pnpbase:isOnPromotion:On%20Promotion",
-     "ok": true,
-     "deals": 59
+     "ok": false,
+     "deals": 0
     }
    ],
-   "status": "ok",
-   "count": 59
+   "status": "stale",
+   "count": 0,
+   "note": "No deals found this run; showing the previous run's deals."
   },
   "woolworths": {
    "name": "Woolworths",
@@ -953,8 +954,8 @@
   },
   {
    "store": "woolworths",
-   "name": "Double Cream Greek Style Yoghurt",
-   "size": "1 KG",
+   "name": "Double Cream Greek Style Yoghurt 1 KG",
+   "size": "1kg",
    "category": "dairy & eggs",
    "price": 69.99,
    "was_price": 79.99,
@@ -965,20 +966,20 @@
   },
   {
    "store": "woolworths",
-   "name": "Jacobs Kronung",
-   "size": "200 g",
+   "name": "Jacobs Kronung 200 g",
+   "size": "200g",
    "category": "pantry",
    "price": 174.99,
    "was_price": 209.99,
    "loyalty_price": null,
-   "promo_text": "Save R35 each",
+   "promo_text": "Save R35",
    "multi_buy": null,
    "valid_until": null
   },
   {
    "store": "woolworths",
-   "name": "Beef lasagne",
-   "size": "1 kg",
+   "name": "Beef lasagne 1 kg",
+   "size": "1kg",
    "category": "other",
    "price": 164.99,
    "was_price": 219.99,
@@ -1008,9 +1009,9 @@
    "size": "6 x 1L",
    "category": "dairy & eggs",
    "price": 89.99,
-   "was_price": 104.99,
+   "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Save R15",
+   "promo_text": "Save R15.00",
    "multi_buy": null,
    "valid_until": "2026-11-08"
   },
@@ -1032,9 +1033,9 @@
    "size": "750g",
    "category": "pantry",
    "price": 39.99,
-   "was_price": 49.99,
+   "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Save R10",
+   "promo_text": "Save R10.00",
    "multi_buy": null,
    "valid_until": "2026-11-08"
   },
@@ -1044,9 +1045,9 @@
    "size": "2kg",
    "category": "household",
    "price": 56.99,
-   "was_price": 69.99,
+   "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Save R13",
+   "promo_text": "Save R13.00",
    "multi_buy": null,
    "valid_until": "2026-11-08"
   },
@@ -1058,7 +1059,7 @@
    "price": 50.0,
    "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Buy Any 2 for R100",
+   "promo_text": "Buy Any 2 for R100.00",
    "multi_buy": {
     "qty": 2,
     "total": 100
@@ -1071,9 +1072,9 @@
    "size": "175g",
    "category": "personal care",
    "price": 28.0,
-   "was_price": 40.0,
+   "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Save R12",
+   "promo_text": "Save R12.00",
    "multi_buy": null,
    "valid_until": "2026-11-08"
   },
@@ -1085,7 +1086,7 @@
    "price": 35.0,
    "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Buy Any 2 for R70",
+   "promo_text": "Buy Any 2 for R70.00",
    "multi_buy": {
     "qty": 2,
     "total": 70
@@ -1098,9 +1099,9 @@
    "size": "80 pk",
    "category": "pantry",
    "price": 46.99,
-   "was_price": 57.99,
+   "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Save R11",
+   "promo_text": "Save R11.00",
    "multi_buy": null,
    "valid_until": "2026-11-08"
   },
@@ -1120,11 +1121,11 @@
    "store": "spar",
    "name": "NESCAFÉ Gold Soluble Coffee (200g)",
    "size": "200g",
-   "category": "drinks",
+   "category": "pantry",
    "price": 149.99,
-   "was_price": 194.99,
+   "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Save R45",
+   "promo_text": "Save R45.00",
    "multi_buy": null,
    "valid_until": "2026-11-08"
   }

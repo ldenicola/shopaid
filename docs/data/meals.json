@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-29T05:34+02:00",
+ "updated": "2026-11-02T05:44+02:00",
  "meals": [
   {
-   "title": "Boerewors Braai with Pap and Tomato Smoor",
-   "why": "Boerewors is on special at Checkers (R89.99/kg with loyalty card), and a 10kg bag of maize meal makes the pap very cheap.",
-   "time_minutes": 45,
+   "title": "Boerewors with Pap and Tomato Sous",
+   "why": "Traditional boerewors is on special at Checkers (R89.99/kg with loyalty card), and a 10kg bag of maize meal makes pap very cheap per serving.",
+   "time_minutes": 40,
    "uses": [
     {
      "item": "Boerewors Traditional",
@@ -22,40 +22,36 @@
      "price": 14.99
     },
     {
-     "item": "Mrs H.S.Ball's Original Chutney 470g",
+     "item": "Rhodes Tomato Paste Sachet 50g",
      "store": "pnp",
-     "price": 32.99
+     "price": 5.0
     }
    ],
    "also_need": [
     "onion",
-    "garlic",
-    "cooking oil",
     "salt",
-    "chilli flakes (optional)",
-    "sugar (optional)"
+    "pepper",
+    "pinch of sugar",
+    "oil",
+    "water",
+    "braai coals or wood"
    ],
    "method": [
-    "Light the fire and braai the wors over medium coals for 15-20 minutes, turning occasionally, until cooked through.",
-    "Fry a chopped onion and garlic in a little oil until soft. Add the chopped tomatoes, salt and a pinch of chilli, and simmer for 15 minutes until thick.",
-    "Bring 4 cups of salted water to the boil. Stir in about 2 cups of maize meal, cover and cook on low for 20-25 minutes, stirring now and then, until crumbly.",
-    "Serve the wors with the pap, the tomato smoor and a spoonful of chutney."
+    "Fry the chopped onion in oil until soft, then add the chopped tomatoes, tomato paste, a pinch of sugar, salt and pepper. Simmer for 15 minutes until thick.",
+    "Bring salted water to the boil and stir in the maize meal in a steady stream. Cover and cook on low for 25-30 minutes, stirring occasionally, until crumbly or stiff.",
+    "Braai the boerewors over medium coals for 15-20 minutes, turning often.",
+    "Serve the wors with pap and the tomato sous."
    ]
   },
   {
-   "title": "Spiced Butternut and Bean Stew over Rice",
-   "why": "Butternut is only R14.99/kg, and canned beans and tomatoes stretch it into a filling vegetarian meal for very little money.",
-   "time_minutes": 40,
+   "title": "Butternut Curry with Rice and Chutney",
+   "why": "Butternut is only R14.99/kg and goes a long way in a filling vegetarian curry with parboiled rice.",
+   "time_minutes": 45,
    "uses": [
     {
      "item": "Butternut",
      "store": "checkers",
      "price": 14.99
-    },
-    {
-     "item": "Koo Baked Beans In Tomato Sauce 400g",
-     "store": "pnp",
-     "price": 13.33
     },
     {
      "item": "Canned Chopped Tomatoes",
@@ -68,6 +64,11 @@
      "price": 31.99
     },
     {
+     "item": "Mrs H.S.Ball's Original Chutney 470g",
+     "store": "pnp",
+     "price": 32.99
+    },
+    {
      "item": "Robertsons Paprika Spice Refill 55g",
      "store": "pnp",
      "price": 12.5
@@ -76,21 +77,22 @@
    "also_need": [
     "onion",
     "garlic",
-    "curry powder or ground cumin",
-    "cooking oil",
-    "salt and pepper"
+    "curry powder",
+    "oil",
+    "salt",
+    "fresh coriander (optional)"
    ],
    "method": [
-    "Peel the butternut and cut it into 2cm cubes.",
-    "Fry a chopped onion and garlic in oil. Add 2 tsp paprika and 1 tsp curry powder or cumin, and stir for 1 minute.",
-    "Add the butternut, chopped tomatoes and half a can of water. Cover and simmer for 20 minutes until the butternut is tender.",
-    "Stir in the baked beans and heat through for 5 minutes. Season to taste.",
-    "Cook the rice according to the packet and serve the stew on top."
+    "Fry the chopped onion and garlic in oil, then stir in the curry powder and a teaspoon of paprika for 1 minute.",
+    "Add the cubed butternut and the chopped tomatoes with half a can of water. Simmer covered for 20-25 minutes until the butternut is tender.",
+    "Stir in a spoonful of chutney and season with salt.",
+    "Cook the rice according to the packet.",
+    "Serve the curry over the rice with extra chutney on the side."
    ]
   },
   {
-   "title": "Chicken Livers in Spicy Tomato Sauce on Toast",
-   "why": "At R21.50 for 500g, frozen chicken livers are one of the cheapest proteins on special, and they cook in minutes.",
+   "title": "Quick Chicken Livers on Toast",
+   "why": "Frozen chicken livers are R21.50 for 500g, which makes this one of the cheapest protein dinners you can get this week.",
    "time_minutes": 25,
    "uses": [
     {
@@ -117,21 +119,23 @@
    "also_need": [
     "onion",
     "garlic",
-    "cooking oil",
-    "chilli flakes or peri-peri sauce",
-    "salt and pepper"
+    "oil or butter",
+    "chilli flakes (optional)",
+    "salt and pepper",
+    "thaw livers in the fridge the night before"
    ],
    "method": [
-    "Thaw the livers in the fridge during the day, then drain and pat dry.",
-    "Fry a sliced onion and garlic in oil for 5 minutes. Add the livers and brown for 4-5 minutes.",
-    "Stir in the tomato paste, 1 tsp paprika, chilli, salt and 1/2 cup water. Simmer for 8 minutes until the sauce is thick and the livers are cooked through.",
-    "Toast the bread and serve the livers on top."
+    "Pat the thawed livers dry and season with paprika, salt and pepper.",
+    "Fry the sliced onion and garlic in a hot pan until golden, then push to the side.",
+    "Add the livers and sear for 3-4 minutes, turning once.",
+    "Stir in the tomato paste with a splash of water, and chilli if using. Simmer for 5 minutes until the livers are just cooked through and the sauce is glossy.",
+    "Toast the bread and spoon the livers over it."
    ]
   },
   {
-   "title": "Butternut-Topped Cottage Pie",
-   "why": "Lean mince is on special at PnP (R99.99), and a butternut mash topping is cheaper than potato.",
-   "time_minutes": 75,
+   "title": "Cape Malay-Style Bobotie",
+   "why": "PnP bulk lean beef mince is R99.99, and bobotie stretches it with bread, milk and eggs. Both the milk (R29.99 with a loyalty card) and the eggs (R59.99 with a loyalty card) are on special at Checkers.",
+   "time_minutes": 70,
    "uses": [
     {
      "item": "PnP Live Well Bulk Lean Beef Mince",
@@ -139,91 +143,19 @@
      "price": 99.99
     },
     {
-     "item": "Butternut",
-     "store": "checkers",
-     "price": 14.99
-    },
-    {
-     "item": "Canned Chopped Tomatoes",
-     "store": "checkers",
-     "price": 14.99
-    },
-    {
-     "item": "Rhodes Tomato Paste Sachet 50g",
-     "store": "pnp",
-     "price": 5.0
-    },
-    {
-     "item": "Stork Country 40% Fat Spread 1kg",
-     "store": "pnp",
-     "price": 45.0
-    }
-   ],
-   "also_need": [
-    "onion",
-    "garlic",
-    "carrots or frozen peas",
-    "mixed herbs",
-    "salt and pepper",
-    "grated cheese (optional)"
-   ],
-   "method": [
-    "Heat the oven to 190°C. Peel and cube the butternut, then boil for 15 minutes until soft. Mash with a knob of Stork and season.",
-    "Brown the mince with onion and garlic, breaking up any lumps.",
-    "Add the tomato paste, chopped tomatoes, diced carrot or peas, mixed herbs and seasoning. Simmer for 15 minutes.",
-    "Spoon the mince into an ovenproof dish and cover with the mash. Rough up the top with a fork and add cheese if using.",
-    "Bake for 25-30 minutes until golden and bubbling."
-   ]
-  },
-  {
-   "title": "Glazed Pork Braai Chops with Oven Fries and Cucumber Salad",
-   "why": "Pork braai chops are R64.99 and chutney makes an easy glaze. Fries and cucumber are both on special, so the whole plate is on promo.",
-   "time_minutes": 40,
-   "uses": [
-    {
-     "item": "PnP Pork Braai Chops",
-     "store": "pnp",
-     "price": 64.99
-    },
-    {
      "item": "Mrs H.S.Ball's Original Chutney 470g",
      "store": "pnp",
      "price": 32.99
     },
     {
-     "item": "McCain Skinny Cut Potato Fries 1kg",
+     "item": "Blue Ribbon White Toaster Bread 700g",
      "store": "pnp",
-     "price": 48.0
+     "price": 20.99
     },
     {
-     "item": "PnP English Cucumber",
-     "store": "pnp",
-     "price": 15.0
-    }
-   ],
-   "also_need": [
-    "vinegar or lemon juice",
-    "salt and pepper",
-    "cooking oil",
-    "red onion (optional)"
-   ],
-   "method": [
-    "Season the chops with salt and pepper. Mix 3 tbsp chutney with a splash of vinegar or lemon juice and brush it over the chops.",
-    "Put the fries in the oven at 220°C for about 20 minutes, turning halfway.",
-    "Braai or pan-grill the chops for 5-6 minutes per side, brushing with more glaze and watching for burning.",
-    "Slice the cucumber and toss with vinegar, salt and a little red onion.",
-    "Rest the chops for 3 minutes and serve with the fries and salad."
-   ]
-  },
-  {
-   "title": "Tuna Egg Rice Bowl with Cucumber",
-   "why": "Cheap shredded tuna and eggs on rice make a quick, protein-rich dinner using store cupboard items on special.",
-   "time_minutes": 25,
-   "uses": [
-    {
-     "item": "No Name Live Well Shredded Tuna in Salt Water 170g",
-     "store": "pnp",
-     "price": 17.0
+     "item": "Clover Full Cream Fresh Milk",
+     "store": "checkers",
+     "price": 32.99
     },
     {
      "item": "Nulaid Large Eggs",
@@ -234,30 +166,118 @@
      "item": "Spekko Rice Parboiled 2kg",
      "store": "pnp",
      "price": 31.99
+    }
+   ],
+   "also_need": [
+    "onion",
+    "curry powder",
+    "turmeric",
+    "vinegar",
+    "raisins or dried apricots",
+    "bay leaves",
+    "oil",
+    "salt"
+   ],
+   "method": [
+    "Heat the oven to 180°C. Soak 2 slices of bread in about 1 cup of milk, then squeeze out and keep the milk.",
+    "Fry the onion in oil, add the mince and brown it. Stir in the curry powder, turmeric, chutney, a splash of vinegar, raisins and the soaked bread.",
+    "Press the mixture into a baking dish.",
+    "Beat 2 eggs with the leftover milk and a pinch of salt, pour over the top and lay a bay leaf on it.",
+    "Bake for 35-40 minutes until the topping is set and golden.",
+    "Serve with rice and extra chutney."
+   ]
+  },
+  {
+   "title": "Sticky Pork Chops with Fries and Cucumber-Yoghurt Salad",
+   "why": "PnP pork braai chops are R64.99, and a brown sugar and paprika rub gives them a braai flavour in a pan or on the grill. The oven fries and cucumber salad keep the cooking simple.",
+   "time_minutes": 35,
+   "uses": [
+    {
+     "item": "PnP Pork Braai Chops",
+     "store": "pnp",
+     "price": 64.99
     },
     {
-     "item": "Nola Original Mayonnaise 750g",
+     "item": "No Name Brown Sugar 2kg",
      "store": "pnp",
-     "price": 39.99
+     "price": 44.99
+    },
+    {
+     "item": "Robertsons Paprika Spice Refill 55g",
+     "store": "pnp",
+     "price": 12.5
+    },
+    {
+     "item": "McCain Skinny Cut Potato Fries 1kg",
+     "store": "pnp",
+     "price": 48.0
     },
     {
      "item": "PnP English Cucumber",
      "store": "pnp",
      "price": 15.0
+    },
+    {
+     "item": "Double Cream Greek Style Yoghurt 1 KG",
+     "store": "woolworths",
+     "price": 69.99
     }
    ],
    "also_need": [
-    "spring onion or red onion",
+    "salt",
+    "pepper",
+    "garlic powder",
     "lemon juice",
-    "soy sauce (optional)",
-    "salt and pepper"
+    "oil",
+    "fresh mint or dill (optional)"
    ],
    "method": [
-    "Cook the rice according to the packet.",
-    "Boil the eggs for 8 minutes, then cool in cold water and peel.",
-    "Drain the tuna and mix with 2-3 tbsp mayo, lemon juice, chopped onion and pepper.",
-    "Slice the cucumber and halve the eggs.",
-    "Serve the rice topped with the tuna mix, eggs and cucumber, with a dash of soy sauce if you like."
+    "Mix 1 tbsp brown sugar with 2 tsp paprika, garlic powder, salt and pepper. Rub it over the chops and rest them for 10 minutes.",
+    "Bake the fries on a tray at 220°C for 20-25 minutes, turning halfway.",
+    "Cook the chops in a hot pan or on a grill for 4-5 minutes per side until caramelised and cooked through.",
+    "Mix the diced cucumber with a few spoonfuls of Greek yoghurt, lemon juice, salt and herbs.",
+    "Serve the chops with the fries and salad."
+   ]
+  },
+  {
+   "title": "Paprika Chicken and Butternut Traybake",
+   "why": "The 5kg frozen braaipack works out cheap per portion, and butternut is at R14.99/kg. Cook half the pack now and freeze the rest in meal-sized bags.",
+   "time_minutes": 60,
+   "uses": [
+    {
+     "item": "No Name Frozen Chicken Braaipack 5kg",
+     "store": "pnp",
+     "price": 199.99
+    },
+    {
+     "item": "Butternut",
+     "store": "checkers",
+     "price": 14.99
+    },
+    {
+     "item": "Robertsons Paprika Spice Refill 55g",
+     "store": "pnp",
+     "price": 12.5
+    },
+    {
+     "item": "Mrs H.S.Ball's Original Chutney 470g",
+     "store": "pnp",
+     "price": 32.99
+    }
+   ],
+   "also_need": [
+    "onion",
+    "oil",
+    "garlic",
+    "salt and pepper",
+    "thaw chicken in the fridge the day before"
+   ],
+   "method": [
+    "Heat the oven to 200°C. Toss the thawed chicken pieces with oil, paprika, garlic, salt and pepper.",
+    "Cube the butternut and slice the onion, then spread them in a roasting tray and nestle the chicken on top.",
+    "Roast for 45-50 minutes, turning once, until the chicken is golden and cooked through.",
+    "Brush the chicken with a little chutney for the last 10 minutes.",
+    "Serve straight from the tray."
    ]
   }
  ]
