@@ -1,176 +1,10 @@
 {
- "updated": "2026-11-05T05:45+02:00",
+ "updated": "2026-11-09T05:45+02:00",
  "meals": [
   {
-   "title": "Paprika Pork Braai Chops with Braaibroodjies",
-   "why": "PnP Pork Braai Chops are on special at R59.99, and a paprika rub with toasted cheese-and-tomato sandwiches stretches them into a full braai dinner.",
+   "title": "Braai Boerewors Rolls with Coal-Roasted Butternut",
+   "why": "Boerewors is R99.99/kg at Checkers (R89.99 with a loyalty card) and butternut is only R14.99/kg, so a whole braai dinner costs very little.",
    "time_minutes": 40,
-   "uses": [
-    {
-     "item": "PnP Pork Braai Chops",
-     "store": "pnp",
-     "price": 59.99
-    },
-    {
-     "item": "Robertsons Paprika Spice Refill",
-     "store": "pnp",
-     "price": 12.5
-    },
-    {
-     "item": "Sasko Premium Sliced White Bread",
-     "store": "pnp",
-     "price": 17.99
-    },
-    {
-     "item": "Stork Country 40% Fat Spread",
-     "store": "pnp",
-     "price": 47.99
-    }
-   ],
-   "also_need": [
-    "cheese",
-    "tomatoes",
-    "onion",
-    "salt and pepper",
-    "olive oil",
-    "chutney (optional)"
-   ],
-   "method": [
-    "Rub the chops with paprika, salt, pepper and a little oil, then rest for 15 minutes while the coals burn down.",
-    "Make sandwiches with cheese, sliced tomato and onion, and butter the outsides with the spread.",
-    "Braai the chops over medium coals for 5-6 minutes per side until cooked through and the fat is crisp.",
-    "Toast the sandwiches in a braai grid until golden and the cheese has melted.",
-    "Rest the chops for 5 minutes and serve with the braaibroodjies and chutney."
-   ]
-  },
-  {
-   "title": "Butternut & Tomato Curry with Rice",
-   "why": "Butternut is only R14.99/kg at Checkers and combines with canned tomatoes and cheap parboiled rice for a filling vegetarian meal.",
-   "time_minutes": 45,
-   "uses": [
-    {
-     "item": "Butternut",
-     "store": "checkers",
-     "price": 14.99
-    },
-    {
-     "item": "Canned Chopped Tomatoes",
-     "store": "checkers",
-     "price": 14.99
-    },
-    {
-     "item": "Spekko Rice Parboiled",
-     "store": "pnp",
-     "price": 31.99
-    },
-    {
-     "item": "PnP Double Cream Plain Yoghurt",
-     "store": "pnp",
-     "price": 37.99
-    }
-   ],
-   "also_need": [
-    "onion",
-    "garlic",
-    "curry powder",
-    "canned chickpeas",
-    "cooking oil",
-    "salt"
-   ],
-   "method": [
-    "Fry a chopped onion and garlic in oil until soft, then stir in 2 tbsp curry powder for a minute.",
-    "Add the chopped tomatoes and cubed butternut with a splash of water and simmer for 20 minutes.",
-    "Stir in the drained chickpeas and cook for 5-10 minutes until the butternut is tender.",
-    "Cook the rice according to the packet.",
-    "Serve the curry over rice with a spoonful of plain yoghurt on top."
-   ]
-  },
-  {
-   "title": "Tuna & Egg Fried Rice",
-   "why": "A 30-minute dinner built on R17 tuna, eggs and cheap parboiled rice.",
-   "time_minutes": 28,
-   "uses": [
-    {
-     "item": "No Name Live Well Shredded Tuna in Salt Water",
-     "store": "pnp",
-     "price": 17.0
-    },
-    {
-     "item": "Nulaid Large Eggs",
-     "store": "checkers",
-     "price": 64.99
-    },
-    {
-     "item": "Spekko Rice Parboiled",
-     "store": "pnp",
-     "price": 31.99
-    }
-   ],
-   "also_need": [
-    "frozen peas or mixed veg",
-    "spring onion or onion",
-    "garlic",
-    "soy sauce",
-    "cooking oil"
-   ],
-   "method": [
-    "Cook the rice until just tender, drain and spread it out to steam dry.",
-    "Fry the onion and garlic in a hot wok or large pan, then add the veg for 2-3 minutes.",
-    "Push everything aside, scramble 3-4 eggs in the pan and break them up.",
-    "Add the rice, drained tuna and a splash of soy sauce, then toss over high heat for 3-4 minutes.",
-    "Taste, adjust the seasoning and serve hot."
-   ]
-  },
-  {
-   "title": "One-Pan Oven Paprika Chicken & Tomato Rice",
-   "why": "The 2kg frozen braai pack is R66.67, and the chicken bakes on top of rice in tomato sauce so you only wash one dish.",
-   "time_minutes": 75,
-   "uses": [
-    {
-     "item": "No Name Frozen Chicken Braai Pack",
-     "store": "pnp",
-     "price": 66.67
-    },
-    {
-     "item": "Spekko Rice Parboiled",
-     "store": "pnp",
-     "price": 31.99
-    },
-    {
-     "item": "Canned Chopped Tomatoes",
-     "store": "checkers",
-     "price": 14.99
-    },
-    {
-     "item": "Rhodes Tomato Paste Sachet",
-     "store": "pnp",
-     "price": 5.0
-    },
-    {
-     "item": "Robertsons Paprika Spice Refill",
-     "store": "pnp",
-     "price": 12.5
-    }
-   ],
-   "also_need": [
-    "onion",
-    "garlic",
-    "chicken stock cube",
-    "cooking oil",
-    "salt and pepper"
-   ],
-   "method": [
-    "Thaw the chicken fully in the fridge beforehand and heat the oven to 200°C.",
-    "Mix the rice, chopped tomatoes, tomato paste, chopped onion, garlic, stock cube and 2 cups of boiling water in a deep baking dish.",
-    "Rub the chicken pieces with oil, paprika, salt and pepper and arrange them on top of the rice.",
-    "Cover with foil and bake for 30 minutes, then uncover and bake for 30-35 minutes until the chicken is golden and the rice is cooked.",
-    "Rest for 5 minutes before serving."
-   ]
-  },
-  {
-   "title": "Sheet-Pan Boerewors, Chips & Baked Beans",
-   "why": "Checkers Boerewors is R99.99/kg (R89.99 with loyalty), and this kid-friendly meal needs only a tray, a pot and cheap frozen chips and beans.",
-   "time_minutes": 35,
    "uses": [
     {
      "item": "Boerewors Traditional",
@@ -178,32 +12,171 @@
      "price": 99.99
     },
     {
-     "item": "McCain Skinny Cut Potato Fries",
+     "item": "PnP Hotdog Rolls 6 Pack",
      "store": "pnp",
-     "price": 44.0
+     "price": 18.99
     },
     {
-     "item": "Rhodes Quality Baked Beans In Tomato Sauce",
+     "item": "Butternut",
+     "store": "checkers",
+     "price": 14.99
+    },
+    {
+     "item": "All Gold Tomato Sauce 700ml",
      "store": "pnp",
-     "price": 14.0
+     "price": 41.99
     }
    ],
    "also_need": [
-    "salt",
-    "mustard or chutney (optional)"
+    "onions",
+    "olive oil or cooking oil",
+    "salt and pepper",
+    "braai fuel",
+    "foil"
    ],
    "method": [
-    "Heat the oven to 220°C and spread the fries on a large tray.",
-    "Coil the boerewors on a second tray or push the fries to one side and add the wors to the same tray.",
-    "Bake for 25-30 minutes, turning the wors once, until browned and cooked through.",
-    "Warm the baked beans in a small pot.",
-    "Slice the wors and serve with the chips, beans and a little mustard or chutney."
+    "Slice the butternut into thick wedges, toss with oil, salt and pepper, and wrap in foil.",
+    "Put the foil parcels on the edge of the coals for about 30 minutes, turning once, until soft.",
+    "Braai the boerewors over medium coals for 15-20 minutes, turning occasionally.",
+    "Fry sliced onions with a splash of tomato sauce for a quick smoor.",
+    "Serve the wors in the hotdog rolls with the onion smoor and butternut on the side."
    ]
   },
   {
-   "title": "Butternut-Topped Cottage Pie",
-   "why": "Lean beef mince is R109.99/kg (R99.99 with loyalty), and cheap butternut mashed with milk makes a topping that goes further than potato.",
-   "time_minutes": 80,
+   "title": "Shakshuka with Toast",
+   "why": "Tinned tomatoes (R14.99), a 6-pack of eggs and a sachet of paprika make a filling vegetarian dinner for under R70.",
+   "time_minutes": 25,
+   "uses": [
+    {
+     "item": "Canned Chopped Tomatoes",
+     "store": "checkers",
+     "price": 14.99
+    },
+    {
+     "item": "PnP Large Eggs 6 Pack",
+     "store": "pnp",
+     "price": 22.99
+    },
+    {
+     "item": "Robertsons Paprika Spice Refill 55g",
+     "store": "pnp",
+     "price": 12.5
+    },
+    {
+     "item": "Rhodes Tomato Paste Sachet 50g",
+     "store": "pnp",
+     "price": 7.49
+    },
+    {
+     "item": "Sasko Premium Sliced White Bread 700g",
+     "store": "pnp",
+     "price": 17.99
+    }
+   ],
+   "also_need": [
+    "onion",
+    "garlic",
+    "cooking oil",
+    "salt and pepper",
+    "chilli flakes (optional)"
+   ],
+   "method": [
+    "Soften a chopped onion and garlic in oil in a wide pan.",
+    "Stir in 1 tsp paprika and the tomato paste, then add the chopped tomatoes.",
+    "Simmer for 10 minutes until thick, then season with salt and pepper.",
+    "Make 4-6 wells in the sauce, crack in the eggs, cover and cook for 5-7 minutes until the whites are set.",
+    "Serve straight from the pan with toasted bread."
+   ]
+  },
+  {
+   "title": "Tuna Mayo Rice Bowls with Cucumber",
+   "why": "Shredded tuna at R21.99 a tin, parboiled rice and a big tub of Nola mayo make a cheap, no-fuss meal that needs very little cooking.",
+   "time_minutes": 20,
+   "uses": [
+    {
+     "item": "No Name Live Well Shredded Tuna in Salt Water 170g",
+     "store": "pnp",
+     "price": 21.99
+    },
+    {
+     "item": "Spekko Rice Parboiled 2kg",
+     "store": "pnp",
+     "price": 31.99
+    },
+    {
+     "item": "Nola Original Mayonnaise 750g",
+     "store": "pnp",
+     "price": 39.99
+    },
+    {
+     "item": "PnP English Cucumber",
+     "store": "pnp",
+     "price": 16.99
+    },
+    {
+     "item": "PnP Carrots 1kg",
+     "store": "pnp",
+     "price": 14.99
+    }
+   ],
+   "also_need": [
+    "soy sauce",
+    "lemon or vinegar",
+    "salt and pepper",
+    "sesame seeds (optional)"
+   ],
+   "method": [
+    "Cook the rice according to the packet, about 18-20 minutes.",
+    "Drain the tuna and mix with 2-3 tbsp mayo and a squeeze of lemon.",
+    "Slice the cucumber and grate the carrots, then dress them with a little vinegar and salt.",
+    "Spoon the rice into bowls and top with the tuna mix, cucumber and carrot.",
+    "Finish with a drizzle of soy sauce and sesame seeds if you have them."
+   ]
+  },
+  {
+   "title": "Oven-Baked Paprika Chicken with Butternut and Carrots",
+   "why": "A 2kg braai pack of chicken is R94.99, and with R14.99/kg butternut and carrots everything cooks together in one tray.",
+   "time_minutes": 75,
+   "uses": [
+    {
+     "item": "No Name Frozen Chicken Braai Pack 2kg",
+     "store": "pnp",
+     "price": 94.99
+    },
+    {
+     "item": "Butternut",
+     "store": "checkers",
+     "price": 14.99
+    },
+    {
+     "item": "PnP Carrots 1kg",
+     "store": "pnp",
+     "price": 14.99
+    },
+    {
+     "item": "Robertsons Paprika Spice Refill 55g",
+     "store": "pnp",
+     "price": 12.5
+    }
+   ],
+   "also_need": [
+    "cooking oil",
+    "garlic",
+    "salt and pepper",
+    "dried mixed herbs"
+   ],
+   "method": [
+    "Thaw the chicken fully and heat the oven to 200°C.",
+    "Rub the chicken with oil, 2 tbsp paprika, garlic, herbs, salt and pepper.",
+    "Chop the butternut and carrots into chunks and spread them in a large roasting tray.",
+    "Place the chicken on top and roast for 60-70 minutes, turning the veg once, until the chicken is cooked through and golden.",
+    "Rest for 5 minutes and spoon the pan juices over the veg."
+   ]
+  },
+  {
+   "title": "Cottage Pie with Butternut-Carrot Mash",
+   "why": "Checkers lean beef mince is R109.99/kg (R99.99 with a loyalty card), and a butternut and carrot mash stretches it for a family at R14.99/kg per veg.",
+   "time_minutes": 70,
    "uses": [
     {
      "item": "Lean Beef Mince",
@@ -221,31 +194,80 @@
      "price": 14.99
     },
     {
-     "item": "Rhodes Tomato Paste Sachet",
+     "item": "PnP Carrots 1kg",
      "store": "pnp",
-     "price": 5.0
+     "price": 14.99
     },
     {
-     "item": "PnP Full Cream Fresh Milk",
+     "item": "Stork Country 40% Fat Spread 1kg",
      "store": "pnp",
-     "price": 29.99
+     "price": 47.99
+    },
+    {
+     "item": "Rhodes Tomato Paste Sachet 50g",
+     "store": "pnp",
+     "price": 7.49
     }
    ],
    "also_need": [
     "onion",
-    "carrot",
     "garlic",
-    "mixed herbs",
-    "Worcestershire sauce",
+    "beef stock cube",
     "salt and pepper",
-    "cooking oil"
+    "mixed herbs"
    ],
    "method": [
-    "Boil or steam the cubed butternut until soft, then mash it with a splash of milk, salt and pepper.",
-    "Brown the mince with chopped onion, carrot and garlic, then stir in the tomato paste, chopped tomatoes, herbs and Worcestershire sauce.",
-    "Simmer the mince for 20 minutes until thick, and heat the oven to 190°C.",
-    "Spoon the mince into a baking dish and spread the butternut mash over the top, roughing it up with a fork.",
-    "Bake for 25-30 minutes until the top is golden and the edges are bubbling."
+    "Boil peeled, cubed butternut and half the carrots until soft, then drain and mash with a knob of Stork spread and salt.",
+    "Brown the mince with chopped onion and garlic, and grate in the remaining carrots.",
+    "Add the chopped tomatoes, tomato paste, crumbled stock cube and herbs, and simmer for 15 minutes.",
+    "Tip the mince into an ovenproof dish and spread the mash over the top.",
+    "Bake at 190°C for 25 minutes until golden on top."
+   ]
+  },
+  {
+   "title": "Spicy Chicken Livers in Tomato Sauce with Rice",
+   "why": "A 500g pack of chicken livers is just R24.99, which makes this one of the cheapest protein dinners on special.",
+   "time_minutes": 30,
+   "uses": [
+    {
+     "item": "No Name Frozen Chicken Liver 500g",
+     "store": "pnp",
+     "price": 24.99
+    },
+    {
+     "item": "Canned Chopped Tomatoes",
+     "store": "checkers",
+     "price": 14.99
+    },
+    {
+     "item": "Rhodes Tomato Paste Sachet 50g",
+     "store": "pnp",
+     "price": 7.49
+    },
+    {
+     "item": "Robertsons Paprika Spice Refill 55g",
+     "store": "pnp",
+     "price": 12.5
+    },
+    {
+     "item": "Spekko Rice Parboiled 2kg",
+     "store": "pnp",
+     "price": 31.99
+    }
+   ],
+   "also_need": [
+    "onion",
+    "garlic",
+    "chilli or peri-peri sauce",
+    "cooking oil",
+    "salt and pepper"
+   ],
+   "method": [
+    "Thaw the livers, pat them dry and trim off any sinew.",
+    "Start the rice cooking according to the packet.",
+    "Fry the onion and garlic in oil, then add the livers and fry for 4-5 minutes until browned.",
+    "Stir in the paprika, tomato paste, chopped tomatoes and chilli, then simmer for 8-10 minutes until the sauce is thick and the livers are cooked through.",
+    "Serve over the rice."
    ]
   }
  ]
