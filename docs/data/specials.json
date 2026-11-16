@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:41+02:00",
+ "updated": "2026-11-16T12:19+02:00",
  "sources": {
   "checkers": {
    "name": "Checkers / Shoprite",
@@ -26,12 +26,13 @@
    "urls": [
     {
      "url": "https://www.pnp.co.za/c/pnpbase?query=:relevance:allCategories:pnpbase:isOnPromotion:On%20Promotion",
-     "ok": true,
-     "deals": 65
+     "ok": false,
+     "deals": 0
     }
    ],
-   "status": "ok",
-   "count": 65
+   "status": "stale",
+   "count": 0,
+   "note": "No deals found this run; showing the previous run's deals."
   },
   "woolworths": {
    "name": "Woolworths",
@@ -58,11 +59,11 @@
     {
      "url": "https://www.spar.co.za/Specials",
      "ok": true,
-     "deals": 9
+     "deals": 8
     }
    ],
    "status": "ok",
-   "count": 9
+   "count": 8
   }
  },
  "items": [
@@ -1017,7 +1018,7 @@
   {
    "store": "woolworths",
    "name": "Long life milk 1 l x 6-pk",
-   "size": "6 x 1l",
+   "size": "1 l x 6-pk",
    "category": "dairy & eggs",
    "price": 104.99,
    "was_price": 126.99,
@@ -1058,43 +1059,46 @@
   },
   {
    "store": "spar",
-   "name": "NIVEA MEN Black & White Invisible Anti-Perspirant Roll-On, Fresh",
+   "name": "NIVEA MEN Black & White Invisible Anti-Perspirant Roll-On, Fresh (50ml)",
    "size": "50ml",
    "category": "personal care",
-   "price": 23.99,
-   "was_price": 34.99,
+   "price": 22.5,
+   "was_price": null,
    "loyalty_price": null,
-   "promo_text": "Save R11",
-   "multi_buy": null,
-   "valid_until": "2026-11-08"
+   "promo_text": "Buy Any 2 for R45",
+   "multi_buy": {
+    "qty": 2,
+    "total": 45
+   },
+   "valid_until": "2026-11-22"
   },
   {
    "store": "spar",
-   "name": "SPAR Extra Shelf Life Full Cream Fresh Milk",
+   "name": "SPAR Extra Shelf Life Full Cream Fresh Milk (2L)",
    "size": "2L",
    "category": "dairy & eggs",
-   "price": 32.99,
-   "was_price": 37.99,
+   "price": 31.99,
+   "was_price": 36.99,
    "loyalty_price": null,
    "promo_text": "Save R5",
    "multi_buy": null,
-   "valid_until": "2026-11-08"
+   "valid_until": "2026-11-22"
   },
   {
    "store": "spar",
-   "name": "SPAR Brown Sugar",
+   "name": "SPAR Brown Sugar (2kg)",
    "size": "2kg",
    "category": "pantry",
-   "price": 39.99,
-   "was_price": 53.99,
+   "price": 42.99,
+   "was_price": 56.99,
    "loyalty_price": null,
    "promo_text": "Save R14",
    "multi_buy": null,
-   "valid_until": "2026-11-08"
+   "valid_until": "2026-11-22"
   },
   {
    "store": "spar",
-   "name": "SPAR 100% Fruit Juice Blend, Cranberry",
+   "name": "SPAR 100% Fruit Juice Blend, Cranberry (1L)",
    "size": "1L",
    "category": "drinks",
    "price": 24.99,
@@ -1102,11 +1106,11 @@
    "loyalty_price": null,
    "promo_text": "Save R8",
    "multi_buy": null,
-   "valid_until": "2026-11-08"
+   "valid_until": "2026-11-22"
   },
   {
    "store": "spar",
-   "name": "SPAR Golden Corn Flakes",
+   "name": "SPAR Golden Corn Flakes (1kg)",
    "size": "1kg",
    "category": "pantry",
    "price": 49.99,
@@ -1114,38 +1118,23 @@
    "loyalty_price": null,
    "promo_text": "Save R30",
    "multi_buy": null,
-   "valid_until": "2026-11-08"
+   "valid_until": "2026-11-22"
   },
   {
    "store": "spar",
-   "name": "Cadbury Dairy Milk Milk Chocolate Slab, Whole Nut",
+   "name": "Cadbury Dairy Milk Milk Chocolate Slab, Whole Nut (80g)",
    "size": "80g",
    "category": "snacks & sweets",
-   "price": 17.0,
-   "was_price": 33.0,
+   "price": 34.0,
+   "was_price": 50.0,
    "loyalty_price": null,
-   "promo_text": "Buy Any 2 for R34",
-   "multi_buy": {
-    "qty": 2,
-    "total": 34
-   },
-   "valid_until": "2026-11-08"
-  },
-  {
-   "store": "spar",
-   "name": "Dairymaid Country Fresh Ice Cream, Vanilla Flavoured",
-   "size": "1.8L",
-   "category": "frozen",
-   "price": 59.99,
-   "was_price": 79.99,
-   "loyalty_price": null,
-   "promo_text": "Save R20",
+   "promo_text": "Save R16",
    "multi_buy": null,
-   "valid_until": "2026-11-08"
+   "valid_until": "2026-11-22"
   },
   {
    "store": "spar",
-   "name": "Doritos Corn Chips, Sweet Chilli Pepper Flavoured",
+   "name": "Doritos Corn Chips, Sweet Chilli Pepper Flavoured (145g)",
    "size": "145g",
    "category": "snacks & sweets",
    "price": 40.0,
@@ -1153,11 +1142,11 @@
    "loyalty_price": null,
    "promo_text": "Save R10",
    "multi_buy": null,
-   "valid_until": "2026-11-08"
+   "valid_until": "2026-11-22"
   },
   {
    "store": "spar",
-   "name": "Cadbury 5 Star Chocolate Bar",
+   "name": "Cadbury 5 Star Chocolate Bar (48.5g)",
    "size": "48.5g",
    "category": "snacks & sweets",
    "price": 22.0,
@@ -1165,7 +1154,7 @@
    "loyalty_price": null,
    "promo_text": null,
    "multi_buy": null,
-   "valid_until": "2026-11-08"
+   "valid_until": "2026-11-22"
   }
  ]
 }
