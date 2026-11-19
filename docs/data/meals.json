@@ -1,18 +1,18 @@
 {
- "updated": "2026-11-16T12:19+02:00",
+ "updated": "2026-11-19T12:54+02:00",
  "meals": [
   {
-   "title": "Braai Boerewors with Pap and Tomato Relish",
-   "why": "Checkers boerewors is R89.99/kg with Xtra Savings, and a 10kg bag of maize meal makes the pap almost free.",
-   "time_minutes": 40,
+   "title": "Boerewors Braai with Pap and Tomato Smoor",
+   "why": "Traditional boerewors is R99.99/kg (R89.99 with a Checkers loyalty card), and the 10kg maize meal at R84.99 makes pap for many meals.",
+   "time_minutes": 45,
    "uses": [
     {
      "item": "Boerewors Traditional",
      "store": "checkers",
-     "price": 89.99
+     "price": 99.99
     },
     {
-     "item": "PnP Live Well Maize Meal",
+     "item": "PnP Live Well Maize Meal 10kg",
      "store": "pnp",
      "price": 84.99
     },
@@ -25,35 +25,35 @@
    "also_need": [
     "onion",
     "garlic",
-    "chilli flakes",
+    "chilli (optional)",
+    "cooking oil",
     "salt",
-    "oil",
-    "water"
+    "pinch of sugar"
    ],
    "method": [
-    "Get the coals going. Cook the wors over medium heat for 15-20 minutes, turning occasionally, until cooked through.",
-    "Fry the onion and garlic in oil until soft. Add the chopped tomatoes and chilli, then simmer for 15 minutes until thick.",
-    "Bring salted water to the boil and stir in the maize meal. Cover and cook on low for 15-20 minutes, stirring now and then, until crumbly pap forms.",
-    "Serve the wors with the pap and tomato relish."
+    "Light the fire and braai the boerewors over medium coals for 15-20 minutes, turning occasionally.",
+    "Soften sliced onion and garlic in oil in a pot. Add the chopped tomatoes, chilli, salt and a pinch of sugar, and simmer for 15 minutes until thick.",
+    "Boil 4 cups of water with salt. Stir in about 2 cups of maize meal, cover and steam on low for 20 minutes, stirring once or twice, until crumbly.",
+    "Serve the wors with pap and the tomato smoor."
    ]
   },
   {
-   "title": "Shakshuka Baked Eggs with Panini for Dipping",
-   "why": "Tinned tomatoes at R14.99, a tray of 18 eggs at the Checkers Xtra Savings price and paprika on special make a cheap vegetarian dinner.",
-   "time_minutes": 25,
+   "title": "Roast Butternut Soup with Paprika Cream",
+   "why": "Butternut is only R14.99/kg, so a big pot of soup costs very little, and it's the vegetarian meal of the week.",
+   "time_minutes": 50,
    "uses": [
     {
-     "item": "Canned Chopped Tomatoes",
+     "item": "Butternut",
      "store": "checkers",
      "price": 14.99
     },
     {
-     "item": "Nulaid Large Eggs",
-     "store": "checkers",
-     "price": 59.99
+     "item": "Nestle Dessert & Cooking Cream 290g",
+     "store": "pnp",
+     "price": 44.99
     },
     {
-     "item": "Robertsons Paprika Spice Refill",
+     "item": "Robertsons Paprika Spice Refill 55g",
      "store": "pnp",
      "price": 12.5
     },
@@ -61,165 +61,118 @@
      "item": "PnP Panini 4 Pack",
      "store": "pnp",
      "price": 15.0
-    },
-    {
-     "item": "PnP Double Cream Plain Yoghurt",
-     "store": "pnp",
-     "price": 37.99
     }
    ],
    "also_need": [
     "onion",
     "garlic",
-    "cumin",
-    "salt and pepper",
-    "oil",
-    "fresh coriander or parsley (optional)"
+    "vegetable stock cube",
+    "olive oil",
+    "salt and pepper"
    ],
    "method": [
-    "Soften the onion and garlic in a wide pan with oil. Stir in the paprika and cumin for 1 minute.",
-    "Add the chopped tomatoes and simmer for 8-10 minutes until thickened. Season.",
-    "Make 4-6 wells in the sauce and crack an egg into each. Cover and cook on low for 5-7 minutes until the whites are set.",
-    "Warm the panini and serve with a spoon of plain yoghurt on top."
+    "Peel and cube about 1kg of butternut. Toss with oil, salt and half the paprika, then roast at 200°C for 25 minutes.",
+    "Soften chopped onion and garlic in a pot, then add the roasted butternut and 750ml of stock. Simmer for 10 minutes.",
+    "Blend until smooth. Stir in most of the cream and season to taste.",
+    "Warm the paninis in the oven. Serve the soup with a swirl of cream and a sprinkle of paprika, with the paninis for dipping."
    ]
   },
   {
-   "title": "Quick Mince Sloppy Joes with Carrot Slaw",
-   "why": "Lean mince is R99.99/kg with Xtra Savings, and PnP hotdog rolls plus tomato sauce turn it into a 25-minute dinner.",
-   "time_minutes": 25,
+   "title": "Creamy Paprika Chicken Livers on Toast",
+   "why": "A 500g pack of chicken livers is only R21.50, so this feeds the family for next to nothing and is on the table in about 20 minutes once thawed.",
+   "time_minutes": 20,
    "uses": [
     {
-     "item": "Lean Beef Mince",
-     "store": "checkers",
-     "price": 99.99
-    },
-    {
-     "item": "Canned Chopped Tomatoes",
-     "store": "checkers",
-     "price": 14.99
-    },
-    {
-     "item": "All Gold Tomato Sauce",
+     "item": "No Name Frozen Chicken Liver 500g",
      "store": "pnp",
-     "price": 34.99
+     "price": 21.5
     },
     {
-     "item": "PnP Hotdog Rolls 6 Pack",
-     "store": "pnp",
-     "price": 17.99
-    },
-    {
-     "item": "PnP Carrots",
-     "store": "pnp",
-     "price": 14.99
-    }
-   ],
-   "also_need": [
-    "onion",
-    "garlic",
-    "vinegar",
-    "salt and pepper",
-    "oil"
-   ],
-   "method": [
-    "Brown the mince in a hot pan with the onion and garlic, breaking it up as it cooks.",
-    "Add the chopped tomatoes and a good squeeze of tomato sauce. Simmer for 10 minutes until thick, then season.",
-    "Grate the carrots and toss with a splash of vinegar, a pinch of salt and a pinch of sugar.",
-    "Split and warm the rolls, fill with the mince and top with the slaw."
-   ]
-  },
-  {
-   "title": "Slow-Braised Short Ribs with Potatoes and Carrots",
-   "why": "Short ribs are the cheaper cut for a slow braise, and the potatoes, carrots and tinned tomatoes are all on special for the pot.",
-   "time_minutes": 180,
-   "uses": [
-    {
-     "item": "PnP Beef Short Ribs",
-     "store": "pnp",
-     "price": 109.99
-    },
-    {
-     "item": "PnP All Purpose Potatoes",
-     "store": "pnp",
-     "price": 44.99
-    },
-    {
-     "item": "PnP Carrots",
-     "store": "pnp",
-     "price": 14.99
-    },
-    {
-     "item": "Canned Chopped Tomatoes",
-     "store": "checkers",
-     "price": 14.99
-    }
-   ],
-   "also_need": [
-    "onion",
-    "garlic",
-    "beef stock cube",
-    "bay leaves",
-    "salt and pepper",
-    "oil"
-   ],
-   "method": [
-    "Heat the oven to 160°C. Season the ribs and brown them in a heavy ovenproof pot, then set aside.",
-    "Fry the onion and garlic in the same pot. Add the chopped tomatoes, a dissolved stock cube in 1 cup of water, and the bay leaves.",
-    "Return the ribs, cover and braise for 2 hours.",
-    "Add the chunked potatoes and carrots, then cook for another 45-60 minutes until the meat is falling off the bone.",
-    "Skim off the fat and serve straight from the pot."
-   ]
-  },
-  {
-   "title": "Paprika Chicken and Potato Traybake",
-   "why": "A 5kg frozen braaipack gives several family meals for about R40/kg, so portion it and freeze the rest.",
-   "time_minutes": 60,
-   "uses": [
-    {
-     "item": "No Name Frozen Chicken Braaipack",
-     "store": "pnp",
-     "price": 199.99
-    },
-    {
-     "item": "PnP All Purpose Potatoes",
-     "store": "pnp",
-     "price": 44.99
-    },
-    {
-     "item": "Robertsons Paprika Spice Refill",
+     "item": "Robertsons Paprika Spice Refill 55g",
      "store": "pnp",
      "price": 12.5
     },
     {
-     "item": "PnP Carrots",
+     "item": "PnP Double Cream Plain Yoghurt 1kg",
      "store": "pnp",
-     "price": 14.99
+     "price": 37.99
+    },
+    {
+     "item": "Blue Ribbon White Toaster Bread 700g",
+     "store": "pnp",
+     "price": 20.99
     }
    ],
    "also_need": [
-    "olive oil or cooking oil",
+    "onion",
     "garlic",
-    "lemon",
+    "cooking oil",
     "salt and pepper",
-    "dried mixed herbs"
+    "lemon juice (optional)"
    ],
    "method": [
-    "Thaw the chicken pieces you need in the fridge the day before, and refreeze the rest in portions.",
-    "Heat the oven to 200°C. Toss the chicken with oil, paprika, crushed garlic, herbs, salt and pepper.",
-    "Spread the chopped potatoes and carrots in a roasting tray, then nestle the chicken on top.",
-    "Roast for 45-55 minutes, turning once, until the chicken is golden and cooked through.",
-    "Squeeze lemon over the tray before serving."
+    "Thaw the livers in the fridge in the morning, then drain and pat dry.",
+    "Fry sliced onion and garlic in oil until golden. Add the livers and cook over high heat for 6-8 minutes until just cooked through.",
+    "Stir in the paprika, salt and pepper. Turn the heat to low and stir in 3-4 tablespoons of yoghurt, with a squeeze of lemon if you like.",
+    "Toast the bread and spoon the livers over."
    ]
   },
   {
-   "title": "Pork Braai Chops with Roast Butternut and Cucumber-Yoghurt Salad",
-   "why": "Pork braai chops are R69.99/kg, butternut is R14.99/kg and it's in season, and the yoghurt and cucumber make a cool side.",
-   "time_minutes": 40,
+   "title": "Classic Cottage Pie",
+   "why": "Lean beef mince is R109.99/kg (R99.99 with a Checkers loyalty card), and the 2kg of potatoes and 2L of milk make a cheap, filling oven bake.",
+   "time_minutes": 80,
    "uses": [
     {
-     "item": "PnP Pork Braai Chops",
+     "item": "Lean Beef Mince",
+     "store": "checkers",
+     "price": 109.99
+    },
+    {
+     "item": "Canned Chopped Tomatoes",
+     "store": "checkers",
+     "price": 14.99
+    },
+    {
+     "item": "PnP All Purpose Potatoes 2kg",
      "store": "pnp",
-     "price": 69.99
+     "price": 35.0
+    },
+    {
+     "item": "Clover Full Cream Fresh Milk 2L",
+     "store": "checkers",
+     "price": 32.99
+    },
+    {
+     "item": "Rama 70% Fat Spread Original 500g",
+     "store": "pnp",
+     "price": 27.5
+    }
+   ],
+   "also_need": [
+    "onion",
+    "carrots",
+    "garlic",
+    "beef stock cube",
+    "salt and pepper",
+    "mixed herbs"
+   ],
+   "method": [
+    "Peel and boil about 1kg of potatoes until soft. Mash with Rama, a splash of milk, salt and pepper.",
+    "Brown 500g of mince with onion, garlic and grated carrot in a large pan.",
+    "Add the chopped tomatoes, a stock cube, herbs and a little water. Simmer for 20 minutes until thick.",
+    "Spoon the mince into an ovenproof dish and top with the mash, then rough up the surface with a fork.",
+    "Bake at 190°C for 25-30 minutes until golden."
+   ]
+  },
+  {
+   "title": "Paprika Chicken and Butternut Traybake",
+   "why": "The 2kg frozen braai pack is R94.99 and roasts well alongside cheap butternut, with a single tray and little washing up.",
+   "time_minutes": 65,
+   "uses": [
+    {
+     "item": "No Name Frozen Chicken Braai Pack 2kg",
+     "store": "pnp",
+     "price": 94.99
     },
     {
      "item": "Butternut",
@@ -227,33 +180,68 @@
      "price": 14.99
     },
     {
-     "item": "PnP English Cucumber",
-     "store": "pnp",
-     "price": 16.99
-    },
-    {
-     "item": "PnP Double Cream Plain Yoghurt",
-     "store": "pnp",
-     "price": 37.99
-    },
-    {
-     "item": "Robertsons Paprika Spice Refill",
+     "item": "Robertsons Paprika Spice Refill 55g",
      "store": "pnp",
      "price": 12.5
+    },
+    {
+     "item": "Knorr Aromat Original All Purpose Seasoning Spice Trio Refill 200g",
+     "store": "pnp",
+     "price": 22.0
     }
    ],
    "also_need": [
-    "oil",
+    "olive oil",
     "garlic",
-    "salt and pepper",
-    "fresh mint or dried mint",
-    "lemon juice"
+    "lemon",
+    "red onion"
    ],
    "method": [
-    "Heat the oven to 200°C. Toss butternut wedges with oil, salt and paprika, then roast for 30-35 minutes.",
-    "Season the chops and braai them over medium coals for 5-6 minutes per side. A hot grill pan also works.",
-    "Dice the cucumber and mix with the yoghurt, crushed garlic, mint, lemon juice and salt.",
-    "Rest the chops for 5 minutes and serve with the butternut and the cucumber-yoghurt salad."
+    "Thaw the chicken fully in the fridge, then pat dry. Heat the oven to 200°C.",
+    "Rub the chicken with oil, paprika, Aromat, crushed garlic and lemon juice.",
+    "Cut butternut into wedges and quarter the red onion. Spread everything on a large baking tray.",
+    "Roast for 45-50 minutes, turning once, until the chicken is golden and cooked through.",
+    "Serve with a green salad or steamed veg."
+   ]
+  },
+  {
+   "title": "Bacon, Potato and Gouda Frittata",
+   "why": "Eggs are only R64.99 for 18, and one 200g pack of bacon plus a few potatoes turns them into a meal for the whole family.",
+   "time_minutes": 35,
+   "uses": [
+    {
+     "item": "Nulaid Large Eggs",
+     "store": "checkers",
+     "price": 64.99
+    },
+    {
+     "item": "PnP Back Bacon 200g",
+     "store": "pnp",
+     "price": 33.0
+    },
+    {
+     "item": "PnP All Purpose Potatoes 2kg",
+     "store": "pnp",
+     "price": 35.0
+    },
+    {
+     "item": "Parmalat Sliced Processed Gouda Cheese 400g",
+     "store": "pnp",
+     "price": 69.99
+    }
+   ],
+   "also_need": [
+    "onion",
+    "cooking oil",
+    "salt and pepper",
+    "fresh parsley (optional)"
+   ],
+   "method": [
+    "Dice 2-3 potatoes and boil or microwave for 8 minutes until just tender. Drain well.",
+    "Fry chopped bacon and onion in an ovenproof pan, then add the potatoes and brown lightly.",
+    "Whisk 8 eggs with salt and pepper and pour over the pan. Tear in Gouda slices.",
+    "Cook on low for 5 minutes until the edges set, then finish under a hot grill for 5 minutes until puffed and golden.",
+    "Slice and serve with a tomato and cucumber salad."
    ]
   }
  ]
